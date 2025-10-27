@@ -4,6 +4,7 @@ This Streamlit application predicts the likelihood of loan default based on user
 It leverages a pre-trained TensorFlow model for efficient predictions.
 
 Deployment
+<img width="1313" height="608" alt="image" src="https://github.com/user-attachments/assets/bb787cdd-3f92-4b31-8eba-bc7ca89f7a41" />
 
 A live version of the app is currently deployed at: https://appappgit-6l5oehywuneuczbnhh5ejv.streamlit.app/
 
