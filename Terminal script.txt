@@ -1,0 +1,812 @@
+PS C:\Users\HP\Downloads\MINDFLUX PROJECTS\MINDFLUX CAPSTONE PROJECTS\MINDFLUX PROJECT 1 LOAN DEFAULT PREDICTION 
+Streamlit_app\Streamlit_app-main> streamlit run "C:\Users\HP\Downloads\MINDFLUX PROJECTS\MINDFLUX CAPSTONE PROJECTS\MINDFLUX PROJECT 1 LOAN DEFAULT PREDICTION Streamlit_app\Streamlit_app-main\Streamlitapp.py"
+>> 
+
+      Welcome to Streamlit!
+
+      If you'd like to receive helpful onboarding emails, news, offers, promotions,
+      and the occasional swag, please enter your email address below. Otherwise,
+      leave this field blank.
+
+      Email:  a.salau1996@gmail.com
+2025-08-14 14:15:40.276 Failed to fetch metrics URL
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runtime\credentials.py", 
+line 151, in load
+    with open(self._conf_file) as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\HP\\.streamlit\\credentials.toml'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11002] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000013DDA8686E0>: Failed to resolve 'data.streamlit.io' ([Errno 11002] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='data.streamlit.io', port=443): Max retries exceeded with url: /metrics.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000013DDA8686E0>: Failed to resolve 'data.streamlit.io' ([Errno 11002] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runtime\credentials.py", 
+line 78, in _send_email
+    response_json = requests.get(
+                    ~~~~~~~~~~~~^
+        "https://data.streamlit.io/metrics.json", timeout=2
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).json()
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\api.py", line 73, in get  
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='data.streamlit.io', port=443): Max retries exceeded with url: /metrics.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000013DDA8686E0>: Failed to resolve 'data.streamlit.io' ([Errno 11002] getaddrinfo failed)"))
+
+  You can find our privacy policy at https://streamlit.io/privacy-policy
+
+  Summary:
+  - This open source library collects usage statistics.
+  - We cannot see and do not store information contained inside Streamlit apps,
+    such as text, charts, images, etc.
+  - Telemetry data is stored in servers in the United States.
+  - If you'd like to opt out, add the following to %userprofile%/.streamlit/config.toml,
+    creating that file if necessary:
+
+    [browser]
+    gatherUsageStats = false
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.102:8501
+
+2025-08-14 14:17:03.310830: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/attr_value.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/tensor.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/resource_handle.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/tensor_shape.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/types.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/full_type.proto. Please update the gencode to avoid compatibility violations in the next 
+runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/function.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/node_def.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/op_def.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/graph.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/graph_debug_info.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/versions.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/protobuf/config.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at xla/tsl/protobuf/coordination_config.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/cost_graph.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/step_stats.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/allocation_description.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/framework/tensor_description.proto. Please update the gencode to avoid compatibility violations in 
+the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/protobuf/cluster.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\protobuf\runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.3 is exactly one major version older than the runtime version 6.31.1 at tensorflow/core/protobuf/debug.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+2025-08-14 14:17:05.616885: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-08-14 14:17:06.215405: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 206ms/step
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 294ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 157ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 118ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000013DED5693A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with 
+different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000013DED5693A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with 
+different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 102ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000013DED87B600> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with 
+different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000013DED87B600> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with 
+different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 143ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 81ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 146ms/stepWARNING:absl:Error in loading the saved optimizer state. As a result, your 
+model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 187ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 157ms/step
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:231 in build_wrapper                                                      
+                                                                                        
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+     229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+  ❱  231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+     233 │   │   │   signature = inspect.signature(original_build_method)               
+     234 │   │   │   obj._build_shapes_dict = signature.bind(*args, **kwargs).argument  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:195 in build                                                         
+                                                                                        
+    192 │   │   x = inputs                                                              
+    193 │   │   for layer in self._layers[1:]:                                          
+    194 │   │   │   try:                                                                
+  ❱ 195 │   │   │   │   x = layer(x)                                                    
+    196 │   │   │   except NotImplementedError:                                         
+    197 │   │   │   │   # Can happen if shape inference is not implemented.             
+    198 │   │   │   │   # TODO: consider reverting inbound nodes on layers processed.   
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\util  
+  s\traceback_utils.py:122 in error_handler                                             
+                                                                                        
+    119 │   │   │   filtered_tb = _process_traceback_frames(e.__traceback__)            
+    120 │   │   │   # To get the full stack trace, call:                                
+    121 │   │   │   # `keras.config.disable_traceback_filtering()`                      
+  ❱ 122 │   │   │   raise e.with_traceback(filtered_tb) from None                       
+    123 │   │   finally:                                                                
+    124 │   │   │   del filtered_tb                                                     
+    125                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+
+During handling of the above exception, another exception occurred:
+
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\exec_code.py:128 in exec_func_with_error_handling                    
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\script_runner.py:669 in code_to_exec                                 
+                                                                                        
+  C:\Users\HP\Downloads\MINDFLUX PROJECTS\MINDFLUX CAPSTONE PROJECTS\MINDFLUX PROJECT   
+  1 LOAN DEFAULT PREDICTION Streamlit_app\Streamlit_app-main\Streamlitapp.py:8 in       
+  <module>                                                                              
+                                                                                        
+     5                                                                                  
+     6 # Load the pre-trained TensorFlow model                                          
+     7 # model = tf.keras.models.load_model("Loan_default_prediction_project_model1.h5  
+  ❱  8 model = tf.keras.models.load_model("C:/Users/HP/Downloads/MINDFLUX PROJECTS/MIN  
+     9                                                                                  
+    10 def main():                                                                      
+    11 │   st.title("Loan Default Prediction App")                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\savi  
+  ng\saving_api.py:196 in load_model                                                    
+                                                                                        
+    193 │   │   │   safe_mode=safe_mode,                                                
+    194 │   │   )                                                                       
+    195 │   if str(filepath).endswith((".h5", ".hdf5")):                                
+  ❱ 196 │   │   return legacy_h5_format.load_model_from_hdf5(                           
+    197 │   │   │   filepath, custom_objects=custom_objects, compile=compile            
+    198 │   │   )                                                                       
+    199 │   elif str(filepath).endswith(".keras"):                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\legacy_h5_format.py:132 in load_model_from_hdf5                             
+                                                                                        
+    129 │   │   model_config = json_utils.decode(model_config)                          
+    130 │   │                                                                           
+    131 │   │   with saving_options.keras_option_scope(use_legacy_config=True):         
+  ❱ 132 │   │   │   model = saving_utils.model_from_config(                             
+    133 │   │   │   │   model_config, custom_objects=custom_objects                     
+    134 │   │   │   )                                                                   
+    135                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\saving_utils.py:88 in model_from_config                                     
+                                                                                        
+     85 │   # Replace keras refs with keras                                             
+     86 │   config = _find_replace_nested_dict(config, "keras.", "keras.")              
+     87 │                                                                               
+  ❱  88 │   return serialization.deserialize_keras_object(                              
+     89 │   │   config,                                                                 
+     90 │   │   module_objects=MODULE_OBJECTS.ALL_OBJECTS,                              
+     91 │   │   custom_objects=custom_objects,                                          
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\serialization.py:495 in deserialize_keras_object                            
+                                                                                        
+    492 │   │   │   )                                                                   
+    493 │   │   │                                                                       
+    494 │   │   │   if "custom_objects" in arg_spec.args:                               
+  ❱ 495 │   │   │   │   deserialized_obj = cls.from_config(                             
+    496 │   │   │   │   │   cls_config,                                                 
+    497 │   │   │   │   │   custom_objects={                                            
+    498 │   │   │   │   │   │   **object_registration.GLOBAL_CUSTOM_OBJECTS,            
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:375 in from_config                                                   
+                                                                                        
+    372 │   │   │   │   │   layer_config,                                               
+    373 │   │   │   │   │   custom_objects=custom_objects,                              
+    374 │   │   │   │   )                                                               
+  ❱ 375 │   │   │   model.add(layer)                                                    
+    376 │   │   if (                                                                    
+    377 │   │   │   not model._functional                                               
+    378 │   │   │   and "build_input_shape" in locals()                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:122 in add                                                           
+                                                                                        
+    119 │   │                                                                           
+    120 │   │   self._layers.append(layer)                                              
+    121 │   │   if rebuild:                                                             
+  ❱ 122 │   │   │   self._maybe_rebuild()                                               
+    123 │   │   else:                                                                   
+    124 │   │   │   self.built = False                                                  
+    125 │   │   │   self._functional = None                                             
+                                                                                        
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:231 in build_wrapper                                                      
+                                                                                        
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+     229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+  ❱  231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+     233 │   │   │   signature = inspect.signature(original_build_method)               
+     234 │   │   │   obj._build_shapes_dict = signature.bind(*args, **kwargs).argument  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:195 in build                                                         
+                                                                                        
+    192 │   │   x = inputs                                                              
+    193 │   │   for layer in self._layers[1:]:                                          
+    194 │   │   │   try:                                                                
+  ❱ 195 │   │   │   │   x = layer(x)                                                    
+    196 │   │   │   except NotImplementedError:                                         
+    197 │   │   │   │   # Can happen if shape inference is not implemented.             
+    198 │   │   │   │   # TODO: consider reverting inbound nodes on layers processed.   
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\util  
+  s\traceback_utils.py:122 in error_handler                                             
+                                                                                        
+    119 │   │   │   filtered_tb = _process_traceback_frames(e.__traceback__)            
+    120 │   │   │   # To get the full stack trace, call:                                
+    121 │   │   │   # `keras.config.disable_traceback_filtering()`                      
+  ❱ 122 │   │   │   raise e.with_traceback(filtered_tb) from None                       
+    123 │   │   finally:                                                                
+    124 │   │   │   del filtered_tb                                                     
+    125                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+
+During handling of the above exception, another exception occurred:
+
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\exec_code.py:128 in exec_func_with_error_handling                    
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\script_runner.py:669 in code_to_exec                                 
+                                                                                        
+  C:\Users\HP\Downloads\MINDFLUX PROJECTS\MINDFLUX CAPSTONE PROJECTS\MINDFLUX PROJECT   
+  1 LOAN DEFAULT PREDICTION Streamlit_app\Streamlit_app-main\Streamlitapp.py:8 in       
+  <module>                                                                              
+                                                                                        
+     5                                                                                  
+     6 # Load the pre-trained TensorFlow model                                          
+     7 # model = tf.keras.models.load_model("Loan_default_prediction_project_model1.h5  
+  ❱  8 model = tf.keras.models.load_model("C:/Users/HP/Downloads/MINDFLUX PROJECTS/MIN  
+     9                                                                                  
+    10 def main():                                                                      
+    11 │   st.title("Loan Default Prediction App")                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\savi  
+  ng\saving_api.py:196 in load_model                                                    
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:149 in _maybe_rebuild                                                
+                                                                                        
+    146 │   │   self._functional = None                                                 
+    147 │   │   if isinstance(self._layers[0], InputLayer) and len(self._layers) > 1:   
+    148 │   │   │   input_shape = self._layers[0].batch_shape                           
+  ❱ 149 │   │   │   self.build(input_shape)                                             
+    150 │   │   elif hasattr(self._layers[0], "input_shape") and len(self._layers) > 1  
+    151 │   │   │   # We can build the Sequential model if the first layer has the      
+    152 │   │   │   # `input_shape` property. This is most commonly found in Functiona  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:229 in build_wrapper                                                      
+                                                                                        
+     226 │   │                                                                          
+     227 │   │   @wraps(original_build_method)                                          
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+  ❱  229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+     231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\tensorflow\core.py:692 in __exit__                                                
+                                                                                        
+    689 │   │   return self                                                             
+    690 │                                                                               
+    691 │   def __exit__(self, *args, **kwargs):                                        
+  ❱ 692 │   │   super().__exit__(*args, **kwargs)                                       
+    693 │   │   if self._pop_on_exit:                                                   
+    694 │   │   │   self._tf_name_scope.__exit__(*args, **kwargs)                       
+    695                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+                                                                                        
+    193 │   │   │   safe_mode=safe_mode,                                                
+    194 │   │   )                                                                       
+    195 │   if str(filepath).endswith((".h5", ".hdf5")):                                
+  ❱ 196 │   │   return legacy_h5_format.load_model_from_hdf5(                           
+    197 │   │   │   filepath, custom_objects=custom_objects, compile=compile            
+    198 │   │   )                                                                       
+    199 │   elif str(filepath).endswith(".keras"):                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\legacy_h5_format.py:132 in load_model_from_hdf5                             
+                                                                                        
+    129 │   │   model_config = json_utils.decode(model_config)                          
+    130 │   │                                                                           
+    131 │   │   with saving_options.keras_option_scope(use_legacy_config=True):         
+  ❱ 132 │   │   │   model = saving_utils.model_from_config(                             
+    133 │   │   │   │   model_config, custom_objects=custom_objects                     
+    134 │   │   │   )                                                                   
+    135                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\saving_utils.py:88 in model_from_config                                     
+                                                                                        
+     85 │   # Replace keras refs with keras                                             
+     86 │   config = _find_replace_nested_dict(config, "keras.", "keras.")              
+     87 │                                                                               
+  ❱  88 │   return serialization.deserialize_keras_object(                              
+     89 │   │   config,                                                                 
+     90 │   │   module_objects=MODULE_OBJECTS.ALL_OBJECTS,                              
+     91 │   │   custom_objects=custom_objects,                                          
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\serialization.py:495 in deserialize_keras_object                            
+                                                                                        
+    492 │   │   │   )                                                                   
+    493 │   │   │                                                                       
+    494 │   │   │   if "custom_objects" in arg_spec.args:                               
+  ❱ 495 │   │   │   │   deserialized_obj = cls.from_config(                             
+    496 │   │   │   │   │   cls_config,                                                 
+    497 │   │   │   │   │   custom_objects={                                            
+    498 │   │   │   │   │   │   **object_registration.GLOBAL_CUSTOM_OBJECTS,            
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:375 in from_config                                                   
+                                                                                        
+    372 │   │   │   │   │   layer_config,                                               
+    373 │   │   │   │   │   custom_objects=custom_objects,                              
+    374 │   │   │   │   )                                                               
+  ❱ 375 │   │   │   model.add(layer)                                                    
+    376 │   │   if (                                                                    
+    377 │   │   │   not model._functional                                               
+    378 │   │   │   and "build_input_shape" in locals()                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:122 in add                                                           
+                                                                                        
+    119 │   │                                                                           
+    120 │   │   self._layers.append(layer)                                              
+    121 │   │   if rebuild:                                                             
+  ❱ 122 │   │   │   self._maybe_rebuild()                                               
+    123 │   │   else:                                                                   
+    124 │   │   │   self.built = False                                                  
+    125 │   │   │   self._functional = None                                             
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:149 in _maybe_rebuild                                                
+                                                                                        
+    146 │   │   self._functional = None                                                 
+    147 │   │   if isinstance(self._layers[0], InputLayer) and len(self._layers) > 1:   
+    148 │   │   │   input_shape = self._layers[0].batch_shape                           
+  ❱ 149 │   │   │   self.build(input_shape)                                             
+    150 │   │   elif hasattr(self._layers[0], "input_shape") and len(self._layers) > 1  
+    151 │   │   │   # We can build the Sequential model if the first layer has the      
+    152 │   │   │   # `input_shape` property. This is most commonly found in Functiona  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:229 in build_wrapper                                                      
+                                                                                        
+     226 │   │                                                                          
+     227 │   │   @wraps(original_build_method)                                          
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+  ❱  229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+     231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\tensorflow\core.py:692 in __exit__                                                
+                                                                                        
+    689 │   │   return self                                                             
+    690 │                                                                               
+    691 │   def __exit__(self, *args, **kwargs):                                        
+  ❱ 692 │   │   super().__exit__(*args, **kwargs)                                       
+    693 │   │   if self._pop_on_exit:                                                   
+    694 │   │   │   self._tf_name_scope.__exit__(*args, **kwargs)                       
+    695                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:231 in build_wrapper                                                      
+                                                                                        
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+     229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+  ❱  231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+     233 │   │   │   signature = inspect.signature(original_build_method)               
+     234 │   │   │   obj._build_shapes_dict = signature.bind(*args, **kwargs).argument  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:195 in build                                                         
+                                                                                        
+    192 │   │   x = inputs                                                              
+    193 │   │   for layer in self._layers[1:]:                                          
+    194 │   │   │   try:                                                                
+  ❱ 195 │   │   │   │   x = layer(x)                                                    
+    196 │   │   │   except NotImplementedError:                                         
+    197 │   │   │   │   # Can happen if shape inference is not implemented.             
+    198 │   │   │   │   # TODO: consider reverting inbound nodes on layers processed.   
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\util  
+  s\traceback_utils.py:122 in error_handler                                             
+                                                                                        
+    119 │   │   │   filtered_tb = _process_traceback_frames(e.__traceback__)            
+    120 │   │   │   # To get the full stack trace, call:                                
+    121 │   │   │   # `keras.config.disable_traceback_filtering()`                      
+  ❱ 122 │   │   │   raise e.with_traceback(filtered_tb) from None                       
+    123 │   │   finally:                                                                
+    124 │   │   │   del filtered_tb                                                     
+    125                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+
+During handling of the above exception, another exception occurred:
+
+────────────────────────── Traceback (most recent call last) ───────────────────────────
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\exec_code.py:128 in exec_func_with_error_handling                    
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\runt  
+  ime\scriptrunner\script_runner.py:669 in code_to_exec                                 
+                                                                                        
+  C:\Users\HP\Downloads\MINDFLUX PROJECTS\MINDFLUX CAPSTONE PROJECTS\MINDFLUX PROJECT   
+  1 LOAN DEFAULT PREDICTION Streamlit_app\Streamlit_app-main\Streamlitapp.py:8 in       
+  <module>                                                                              
+                                                                                        
+     5                                                                                  
+     6 # Load the pre-trained TensorFlow model                                          
+     7 # model = tf.keras.models.load_model("Loan_default_prediction_project_model1.h5  
+  ❱  8 model = tf.keras.models.load_model("C:/Users/HP/Downloads/MINDFLUX PROJECTS/MIN  
+     9                                                                                  
+    10 def main():                                                                      
+    11 │   st.title("Loan Default Prediction App")                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\savi  
+  ng\saving_api.py:196 in load_model                                                    
+                                                                                        
+    193 │   │   │   safe_mode=safe_mode,                                                
+    194 │   │   )                                                                       
+    195 │   if str(filepath).endswith((".h5", ".hdf5")):                                
+  ❱ 196 │   │   return legacy_h5_format.load_model_from_hdf5(                           
+    197 │   │   │   filepath, custom_objects=custom_objects, compile=compile            
+    198 │   │   )                                                                       
+    199 │   elif str(filepath).endswith(".keras"):                                      
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\legacy_h5_format.py:132 in load_model_from_hdf5                             
+                                                                                        
+    129 │   │   model_config = json_utils.decode(model_config)                          
+    130 │   │                                                                           
+    131 │   │   with saving_options.keras_option_scope(use_legacy_config=True):         
+  ❱ 132 │   │   │   model = saving_utils.model_from_config(                             
+    133 │   │   │   │   model_config, custom_objects=custom_objects                     
+    134 │   │   │   )                                                                   
+    135                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\saving_utils.py:88 in model_from_config                                     
+                                                                                        
+     85 │   # Replace keras refs with keras                                             
+     86 │   config = _find_replace_nested_dict(config, "keras.", "keras.")              
+     87 │                                                                               
+  ❱  88 │   return serialization.deserialize_keras_object(                              
+     89 │   │   config,                                                                 
+     90 │   │   module_objects=MODULE_OBJECTS.ALL_OBJECTS,                              
+     91 │   │   custom_objects=custom_objects,                                          
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\lega  
+  cy\saving\serialization.py:495 in deserialize_keras_object                            
+                                                                                        
+    492 │   │   │   )                                                                   
+    493 │   │   │                                                                       
+    494 │   │   │   if "custom_objects" in arg_spec.args:                               
+  ❱ 495 │   │   │   │   deserialized_obj = cls.from_config(                             
+    496 │   │   │   │   │   cls_config,                                                 
+    497 │   │   │   │   │   custom_objects={                                            
+    498 │   │   │   │   │   │   **object_registration.GLOBAL_CUSTOM_OBJECTS,            
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:375 in from_config                                                   
+                                                                                        
+    372 │   │   │   │   │   layer_config,                                               
+    373 │   │   │   │   │   custom_objects=custom_objects,                              
+    374 │   │   │   │   )                                                               
+  ❱ 375 │   │   │   model.add(layer)                                                    
+    376 │   │   if (                                                                    
+    377 │   │   │   not model._functional                                               
+    378 │   │   │   and "build_input_shape" in locals()                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:122 in add                                                           
+                                                                                        
+    119 │   │                                                                           
+    120 │   │   self._layers.append(layer)                                              
+    121 │   │   if rebuild:                                                             
+  ❱ 122 │   │   │   self._maybe_rebuild()                                               
+    123 │   │   else:                                                                   
+    124 │   │   │   self.built = False                                                  
+    125 │   │   │   self._functional = None                                             
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\mode  
+  ls\sequential.py:149 in _maybe_rebuild                                                
+                                                                                        
+    146 │   │   self._functional = None                                                 
+    147 │   │   if isinstance(self._layers[0], InputLayer) and len(self._layers) > 1:   
+    148 │   │   │   input_shape = self._layers[0].batch_shape                           
+  ❱ 149 │   │   │   self.build(input_shape)                                             
+    150 │   │   elif hasattr(self._layers[0], "input_shape") and len(self._layers) > 1  
+    151 │   │   │   # We can build the Sequential model if the first layer has the      
+    152 │   │   │   # `input_shape` property. This is most commonly found in Functiona  
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\laye  
+  rs\layer.py:229 in build_wrapper                                                      
+                                                                                        
+     226 │   │                                                                          
+     227 │   │   @wraps(original_build_method)                                          
+     228 │   │   def build_wrapper(*args, **kwargs):                                    
+  ❱  229 │   │   │   with obj._open_name_scope():                                       
+     230 │   │   │   │   obj._path = current_path()                                     
+     231 │   │   │   │   original_build_method(*args, **kwargs)                         
+     232 │   │   │   # Record build config.                                             
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\tensorflow\core.py:692 in __exit__                                                
+                                                                                        
+    689 │   │   return self                                                             
+    690 │                                                                               
+    691 │   def __exit__(self, *args, **kwargs):                                        
+  ❱ 692 │   │   super().__exit__(*args, **kwargs)                                       
+    693 │   │   if self._pop_on_exit:                                                   
+    694 │   │   │   self._tf_name_scope.__exit__(*args, **kwargs)                       
+    695                                                                                 
+                                                                                        
+  C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\back  
+  end\common\name_scope.py:61 in __exit__                                               
+                                                                                        
+    58 │   │   │   name_scope_stack = global_state.get_global_attribute(                
+    59 │   │   │   │   "name_scope_stack"                                               
+    60 │   │   │   )                                                                    
+  ❱ 61 │   │   │   name_scope_stack.pop()                                               
+    62                                                                                  
+    63                                                                                  
+    64 def current_path():                                                              
+────────────────────────────────────────────────────────────────────────────────────────
+IndexError: pop from empty list
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 125ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 117ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 144ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 117ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 123ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 118ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 116ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 116ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 122ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 142ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 121ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 232ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 119ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 123ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 159ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 116ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 126ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 112ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 102ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 87ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 97ms/step
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 129ms/step

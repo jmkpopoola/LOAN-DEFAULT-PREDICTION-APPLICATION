@@ -1,0 +1,1001 @@
+LoanID,Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner,Default
+DVT8525DS1,56,138778,178895,401,64,9,3.04,12,0.32,Master's,Self-employed,Widowed,No,Yes,Other,No,1
+XZDFN6SHJJ,69,72292,173280,805,82,7,11.28,24,0.51,Bachelor's,Unemployed,Single,Yes,Yes,Education,No,0
+ZZC79IODRE,46,33833,59061,546,153,5,15.56,36,0.67,Bachelor's,Unemployed,Married,No,No,Other,No,0
+34NSGCS3BK,32,145230,166731,836,265,8,13.53,12,0.6,Bachelor's,Full-time,Divorced,No,Yes,Business,Yes,1
+CF243529IU,60,30309,106376,430,308,2,21.97,60,0.77,Master's,Part-time,Widowed,No,No,Home Improvement,No,0
+O7MQR31ULR,25,16970,167962,652,78,7,5.32,36,0.35,Master's,Unemployed,Married,No,Yes,Other,No,0
+E4ORJ0EXJV,78,82474,84134,495,314,4,15.18,72,0.61,High School,Self-employed,Widowed,No,No,Home Improvement,No,0
+KVN7XP1UBV,38,56540,52055,681,149,9,14.29,36,0.18,Bachelor's,Unemployed,Widowed,No,No,Business,No,0
+KRVHVTQ2H0,56,28017,24508,526,47,1,9.19,60,0.47,PhD,Unemployed,Widowed,No,Yes,Education,No,0
+JZ4EYUBKYL,75,85880,178359,775,247,7,21.09,48,0.78,Master's,Part-time,Single,Yes,Yes,Home Improvement,Yes,1
+T275O91RTV,36,115570,163056,776,277,6,19.56,60,0.72,High School,Unemployed,Single,Yes,No,Business,No,0
+66BC32212O,40,18702,115169,564,355,8,19.12,60,0.99,Bachelor's,Full-time,Widowed,No,No,Home Improvement,No,1
+G0N3Q182MK,28,141456,13125,671,97,5,22.28,48,0.35,PhD,Self-employed,Divorced,No,Yes,Other,Yes,1
+4USNGSR928,28,10404,41059,785,24,1,18.9,48,0.55,Master's,Part-time,Married,No,Yes,Business,Yes,1
+1HVBLEZXYM,41,22763,108409,733,283,1,8.1,48,0.4,PhD,Self-employed,Divorced,No,Yes,Other,No,0
+JI5SVYVE9W,70,108142,153159,510,300,9,18.52,48,0.5,Master's,Full-time,Single,No,No,Auto,No,0
+80P1T6UA4J,53,90642,10704,676,67,6,9.77,48,0.87,High School,Full-time,Married,No,Yes,Business,No,0
+ZU6TZR456W,57,60612,196648,694,6,5,8.33,60,0.72,PhD,Unemployed,Widowed,Yes,Yes,Home Improvement,No,0
+D93OYBO6L8,41,33574,116279,749,304,1,4.61,24,0.89,Bachelor's,Unemployed,Divorced,Yes,Yes,Auto,Yes,1
+JRMBXXE06J,20,33524,163280,663,136,6,19.37,24,0.28,Bachelor's,Unemployed,Divorced,No,Yes,Other,No,1
+HO4XCVC2W6,39,20916,123516,756,163,6,18.64,12,0.89,Master's,Self-employed,Widowed,No,Yes,Other,Yes,1
+FRR2CH21KV,70,14809,175954,525,82,3,8.16,24,0.15,Bachelor's,Full-time,Divorced,No,No,Home Improvement,No,0
+IEFFNS3QV1,19,131288,161995,430,137,8,19.49,72,0.9,PhD,Part-time,Single,Yes,No,Auto,No,1
+UTPO5HV5RT,41,48765,119044,775,72,1,23.19,24,0.4,High School,Unemployed,Widowed,No,Yes,Education,No,1
+4Z5WL3937K,61,55106,34165,576,236,1,5.38,60,0.38,Master's,Self-employed,Divorced,Yes,Yes,Home Improvement,Yes,1
+NYUMNMXGBQ,47,63932,72203,455,45,6,8.12,48,0.56,PhD,Unemployed,Widowed,Yes,No,Other,No,0
+TXQZ09G7T1,55,67091,9114,517,105,1,19.51,48,0.95,Master's,Full-time,Married,Yes,Yes,Business,No,1
+L50SBIRT0H,19,31949,41321,489,287,6,9.04,60,0.14,High School,Part-time,Widowed,No,No,Auto,Yes,1
+6KAGJQONG0,77,47744,78297,716,261,1,16.74,72,0.42,Master's,Full-time,Divorced,No,Yes,Education,No,0
+Z9TOMV5F8C,38,118319,101652,845,175,6,4.79,24,0.87,Bachelor's,Self-employed,Single,Yes,No,Business,Yes,1
+BO4ZE87C0V,50,102193,104304,340,165,3,12.95,60,0.46,Bachelor's,Unemployed,Widowed,Yes,No,Auto,No,0
+U3B9MNJPGH,29,46187,161498,606,144,8,19.26,12,0.28,Master's,Full-time,Widowed,Yes,Yes,Home Improvement,Yes,1
+B5AMCFFZ4Y,75,148311,22772,637,329,6,18.1,48,0.48,High School,Self-employed,Divorced,Yes,No,Home Improvement,Yes,0
+A6G70ECU3A,39,134454,108754,613,282,1,20.93,36,0.45,High School,Unemployed,Single,No,Yes,Auto,Yes,0
+KL18Q834DZ,78,24489,8712,374,53,5,22.3,12,0.92,Bachelor's,Part-time,Single,Yes,No,Education,No,0
+3MNT14HUP8,61,71877,137439,578,177,8,20.01,72,0.79,High School,Full-time,Married,No,Yes,Auto,Yes,1
+9BOTRDV86I,42,59922,120142,475,243,3,17.77,12,0.55,Master's,Unemployed,Married,Yes,Yes,Business,Yes,1
+5VQRQ3PO3T,66,104074,96736,572,340,6,3.7,60,0.99,PhD,Unemployed,Divorced,No,Yes,Business,No,0
+R2A2UBGC1D,44,47131,56924,588,126,5,14.77,24,0.52,Master's,Unemployed,Single,Yes,No,Home Improvement,Yes,0
+ZIC84TQXYM,76,125765,8726,571,270,6,3.83,48,0.15,Bachelor's,Unemployed,Single,No,Yes,Auto,No,0
+R9YWRFSAL5,59,83963,94152,365,131,1,20.78,72,0.34,Bachelor's,Full-time,Married,No,Yes,Home Improvement,No,0
+EAE0E0ECR3,45,116884,32723,782,92,7,10.06,72,0.49,Bachelor's,Unemployed,Married,No,Yes,Education,Yes,0
+SWB2X5IGNW,77,135917,131969,547,72,9,15.37,36,0.24,High School,Self-employed,Divorced,Yes,No,Business,Yes,0
+09LEBGTE49,33,34285,105494,455,247,2,9.15,12,0.95,Master's,Full-time,Single,No,Yes,Other,No,0
+T7RB49KQ5B,32,47626,145180,346,347,5,20.22,36,0.79,PhD,Unemployed,Widowed,Yes,No,Other,Yes,0
+8NXGEJ2ESL,79,29198,40643,753,272,4,22.5,24,0.34,Master's,Full-time,Married,No,No,Auto,Yes,0
+BHMREOKWT3,79,25254,167396,500,42,6,11.77,24,0.63,PhD,Self-employed,Divorced,No,No,Auto,Yes,0
+X5OTEL409O,64,54238,108896,423,40,6,21.98,36,0.75,Master's,Self-employed,Single,Yes,Yes,Other,Yes,0
+HPIPG2SJZH,79,11252,144999,300,169,2,8.88,48,0.95,Bachelor's,Full-time,Single,No,Yes,Auto,No,0
+7O1S1TG7K0,68,49764,98680,490,211,2,14.76,24,0.89,PhD,Unemployed,Married,No,No,Business,No,1
+T05EKCJCI1,61,87709,101546,815,167,4,21.89,36,0.56,Master's,Unemployed,Divorced,Yes,Yes,Education,Yes,0
+S0CHVFJR81,72,63682,158515,741,38,1,10.17,12,0.8,High School,Self-employed,Widowed,No,Yes,Education,No,1
+VTX7I0GHSF,69,69494,84973,442,244,9,23.99,36,0.61,High School,Unemployed,Married,No,No,Home Improvement,Yes,1
+O2AOMQT3V3,74,91317,68449,490,150,7,5.68,36,0.6,Master's,Self-employed,Divorced,No,No,Business,Yes,1
+MRVAZLNAS2,20,75215,114834,832,110,7,3.4,60,0.2,Bachelor's,Unemployed,Single,No,Yes,Auto,Yes,0
+9P27OD186S,54,88587,196305,526,46,3,22.89,24,0.21,PhD,Self-employed,Widowed,Yes,No,Auto,Yes,1
+EIEC0YZDGM,68,16949,30537,612,62,3,4.51,48,0.58,Master's,Part-time,Divorced,No,Yes,Home Improvement,No,0
+57CRKKFBUJ,24,65393,82576,601,224,1,24.82,48,0.34,High School,Unemployed,Widowed,No,No,Home Improvement,Yes,1
+RPPLAO6SXI,38,148013,112522,759,68,3,23.93,60,0.12,PhD,Unemployed,Divorced,No,Yes,Auto,No,0
+FMF69ZT95S,26,35934,27612,700,298,3,6.01,72,0.75,High School,Unemployed,Divorced,No,Yes,Auto,Yes,0
+PLEZWQ4UFX,56,85745,11471,692,289,4,14.83,48,0.13,High School,Full-time,Divorced,No,No,Business,No,1
+ZJKE5DU9LC,35,104456,171703,506,295,4,7.07,36,0.64,Master's,Unemployed,Divorced,No,Yes,Home Improvement,No,1
+438JXYI6DU,21,63413,36348,509,202,3,12.42,60,0.59,High School,Full-time,Widowed,No,Yes,Business,No,0
+Y4OERUQRX9,42,107239,6177,414,60,8,4.35,12,0.97,PhD,Full-time,Married,No,No,Auto,No,1
+T31FTRAYQQ,77,52318,140832,550,317,8,7.93,24,0.54,Bachelor's,Self-employed,Widowed,Yes,Yes,Other,Yes,0
+2YYTBBTE2X,31,80390,37779,518,313,1,10.99,24,0.16,Master's,Full-time,Divorced,Yes,Yes,Other,No,0
+QEILFG7RYX,67,53088,26636,706,160,7,12.65,24,0.6,PhD,Full-time,Widowed,Yes,Yes,Auto,Yes,0
+R537AISXQB,75,113196,86889,742,330,2,24.5,36,0.86,Master's,Part-time,Widowed,Yes,No,Home Improvement,No,1
+J0GXU58071,26,65479,58551,653,15,1,20.77,12,1.0,High School,Unemployed,Widowed,No,No,Other,No,0
+Q4T7BVG0SR,43,29963,147628,849,337,3,19.22,60,0.49,High School,Full-time,Divorced,No,No,Home Improvement,No,0
+QB91QR7NEL,70,65123,163670,441,93,4,14.81,60,0.39,PhD,Unemployed,Widowed,Yes,No,Other,Yes,0
+1PNYMSH3V8,19,135911,147635,800,303,6,21.48,24,0.92,PhD,Full-time,Single,Yes,No,Home Improvement,No,0
+R6C5DWTZM2,37,112468,51819,846,137,5,10.47,12,0.27,Bachelor's,Self-employed,Divorced,Yes,Yes,Other,Yes,1
+C3IEDJYOSM,45,83477,78770,841,337,4,18.6,12,0.65,PhD,Part-time,Widowed,No,Yes,Home Improvement,Yes,1
+Y97918PTSY,64,24388,163038,806,37,8,24.86,12,0.47,PhD,Full-time,Single,No,Yes,Business,Yes,1
+SCBW2ZT3FR,77,15569,195961,580,126,4,9.92,48,0.14,Master's,Unemployed,Widowed,Yes,No,Home Improvement,No,1
+BLADAF5E4Y,24,79836,163059,723,274,2,17.83,48,0.41,High School,Self-employed,Married,Yes,Yes,Business,No,0
+SIYGHQBJ6A,61,114573,83714,569,163,3,21.57,24,0.34,PhD,Unemployed,Widowed,Yes,No,Business,No,0
+TCVPC9MJ68,78,55002,194420,453,318,6,23.15,12,0.72,Bachelor's,Self-employed,Widowed,Yes,Yes,Auto,No,0
+AQQEFVLT01,25,147326,29596,382,76,8,18.79,72,0.95,PhD,Part-time,Married,Yes,No,Business,No,0
+I8P89TYTBL,64,147162,169246,725,173,8,9.24,12,0.34,High School,Self-employed,Divorced,No,Yes,Education,No,0
+TXABORM4AE,52,34071,69106,574,357,9,10.18,60,0.83,PhD,Unemployed,Married,Yes,Yes,Business,No,0
+FLL1YUDZA1,31,68243,64182,583,320,7,3.46,60,0.15,Master's,Unemployed,Divorced,No,No,Home Improvement,Yes,1
+O0UFQMXQ6Z,34,135827,92163,472,90,2,19.74,24,0.58,High School,Full-time,Married,Yes,Yes,Business,No,0
+Z9ZGKKTJWO,53,118215,44310,626,237,8,3.94,72,0.16,PhD,Self-employed,Widowed,Yes,Yes,Home Improvement,Yes,0
+W0RYECQLLN,67,111570,61088,362,263,7,22.02,12,0.94,Master's,Unemployed,Widowed,No,No,Home Improvement,Yes,0
+GQF818XC1W,57,79724,133803,372,178,8,5.61,72,0.79,High School,Full-time,Divorced,Yes,Yes,Education,No,1
+A2OA67JCWG,21,125359,144978,674,208,3,6.78,24,0.69,PhD,Part-time,Divorced,No,Yes,Business,No,0
+0W2YLYR33A,19,85697,41914,807,72,7,13.48,60,0.84,Master's,Unemployed,Single,No,No,Business,Yes,0
+DUEV0ZCIAA,79,38732,115350,697,106,9,19.23,60,0.68,Bachelor's,Full-time,Single,Yes,No,Other,Yes,0
+AYJVT911PK,23,131465,50379,419,344,3,6.06,48,0.97,Master's,Unemployed,Widowed,Yes,No,Other,No,1
+BUR6QL8TR2,71,67108,173722,736,294,6,12.68,24,0.74,Bachelor's,Self-employed,Widowed,No,No,Auto,Yes,0
+M6ITPI8RCK,59,121195,182953,764,283,2,13.62,24,0.93,PhD,Full-time,Single,No,No,Home Improvement,Yes,0
+IOYWCHRIZT,21,113081,51413,585,352,2,7.67,12,0.57,Master's,Self-employed,Single,Yes,Yes,Education,Yes,1
+QZ0W8N83TG,71,46668,142084,564,181,5,5.54,12,0.21,Bachelor's,Part-time,Divorced,No,No,Other,Yes,0
+9EUBKNLHQV,46,33061,186187,619,36,5,21.4,48,0.58,High School,Self-employed,Married,Yes,No,Business,No,1
+TCDHAWD2SM,35,89252,12151,675,136,7,14.05,36,0.21,Master's,Full-time,Divorced,No,Yes,Auto,No,0
+B39GMBKSB6,43,49749,62716,388,337,2,3.32,72,0.63,PhD,Unemployed,Single,Yes,Yes,Education,Yes,1
+XO2B9D9PTN,61,140560,98747,502,55,7,20.67,36,0.53,High School,Full-time,Widowed,No,Yes,Business,Yes,0
+KMUQY5X0K8,51,114680,172450,633,186,5,24.58,36,0.66,Bachelor's,Self-employed,Single,No,Yes,Business,Yes,0
+Y8J320EKLM,27,61745,178724,521,340,6,16.33,24,0.11,Master's,Self-employed,Widowed,Yes,Yes,Home Improvement,No,1
+4N92DFEBZQ,79,118464,149539,340,257,8,14.08,72,0.28,Master's,Unemployed,Widowed,No,No,Home Improvement,No,0
+V15W9TQF7Y,53,101865,167082,367,57,4,22.33,24,0.54,PhD,Part-time,Widowed,No,Yes,Other,Yes,0
+PPJK1J1PTS,31,122428,126999,813,122,7,23.96,72,0.96,High School,Full-time,Widowed,No,No,Other,Yes,1
+FVANHZW61I,48,33624,119793,426,187,6,19.6,60,0.45,Master's,Unemployed,Married,No,Yes,Business,Yes,0
+B562TM2CMI,65,33321,190763,554,229,2,12.8,24,0.48,Master's,Unemployed,Single,No,No,Business,No,1
+ZF7VGIZFGD,32,32574,113177,315,167,8,16.03,24,0.74,High School,Unemployed,Divorced,No,Yes,Other,Yes,0
+O5NL95FZ8K,25,146312,17289,776,113,9,18.42,24,0.64,Master's,Full-time,Widowed,No,No,Other,Yes,1
+VV8IWET7LF,31,128831,181048,361,251,5,7.27,48,0.37,High School,Full-time,Widowed,Yes,No,Business,Yes,0
+1B7P8QTV75,40,145504,179668,731,106,4,12.84,24,0.47,High School,Full-time,Divorced,No,No,Education,Yes,0
+9TAJH03VPB,77,105257,159243,567,36,6,21.26,12,0.3,High School,Part-time,Divorced,No,No,Business,Yes,1
+4DU3ZX6KT6,74,74291,91365,334,334,8,17.4,12,0.97,PhD,Unemployed,Widowed,Yes,No,Education,No,0
+LSYE19WRUU,79,137600,119014,793,91,3,12.05,72,0.22,High School,Self-employed,Divorced,No,No,Education,No,1
+XV4SHXS48Q,57,60428,180211,768,17,1,17.59,60,0.43,High School,Self-employed,Divorced,No,No,Business,No,1
+0134O26VLD,38,141374,184785,624,353,4,5.6,48,0.12,Bachelor's,Unemployed,Married,Yes,No,Auto,Yes,1
+P9CXTU441H,33,141127,165806,603,62,4,11.83,72,0.3,Bachelor's,Self-employed,Divorced,No,No,Other,No,0
+F6IJ3C98VQ,62,121317,77588,575,149,1,20.45,12,0.8,PhD,Part-time,Single,No,No,Home Improvement,Yes,0
+FQEXNJH8HK,35,149789,68646,500,138,9,7.85,48,0.28,High School,Part-time,Single,Yes,Yes,Business,No,0
+LT1FGEG3MF,64,137449,8654,744,185,3,7.09,48,0.17,Bachelor's,Full-time,Single,Yes,No,Education,No,1
+3HVWQ9MQU9,70,38699,23743,623,184,5,23.92,60,0.53,Bachelor's,Full-time,Widowed,No,No,Business,Yes,1
+BBVXPJ07WT,41,83686,53368,334,204,6,7.62,48,0.11,Master's,Full-time,Single,No,Yes,Other,Yes,1
+M7I5WKDLJ2,43,77661,142513,781,259,8,8.74,24,0.18,High School,Full-time,Married,Yes,No,Education,Yes,0
+F72M8I7B96,42,54247,124735,779,213,6,24.33,48,0.83,Bachelor's,Full-time,Single,No,No,Home Improvement,No,1
+7BYMZE0PPS,77,115113,160683,364,255,3,19.16,60,0.79,PhD,Self-employed,Widowed,Yes,Yes,Home Improvement,Yes,0
+6RBQETJ8GR,77,14621,124891,307,134,6,18.39,72,0.92,Master's,Self-employed,Married,Yes,Yes,Home Improvement,No,0
+OUFRCHT15M,77,146198,112971,600,60,1,21.76,60,0.87,Master's,Full-time,Single,Yes,No,Auto,No,0
+NECK284RME,62,146194,17149,642,309,4,5.55,60,0.71,High School,Part-time,Married,No,Yes,Education,No,0
+Z4C1XCHTSX,58,28030,105102,730,87,6,18.53,12,0.15,High School,Self-employed,Married,Yes,No,Education,Yes,0
+67YW5ZPENZ,46,92838,64189,723,323,7,14.08,24,0.8,Master's,Part-time,Widowed,Yes,No,Auto,Yes,0
+01NE2PTCML,32,94717,157747,631,206,3,21.24,12,0.86,PhD,Part-time,Widowed,Yes,No,Education,Yes,0
+ZK4ARR654K,62,48638,76031,737,128,9,14.18,72,0.82,High School,Unemployed,Married,No,Yes,Auto,No,0
+L7ERA1I0M5,18,77067,47668,473,310,7,16.65,36,0.56,High School,Unemployed,Single,No,No,Business,No,1
+IHTFE1QXUY,42,128033,149745,826,2,1,13.51,72,0.31,Master's,Full-time,Widowed,No,No,Other,Yes,0
+1X172DO2R6,24,115977,93204,325,241,2,13.52,24,0.86,Master's,Part-time,Married,Yes,Yes,Home Improvement,No,0
+P1BKEABN00,26,98869,159741,705,120,1,19.9,48,0.75,High School,Self-employed,Divorced,No,No,Auto,No,1
+AQE24JVP1Z,41,115186,170140,531,101,9,16.83,60,0.98,Bachelor's,Unemployed,Divorced,No,No,Auto,No,1
+LMSO6IV6XL,18,44674,145507,832,37,9,16.93,36,0.24,High School,Unemployed,Widowed,Yes,No,Auto,Yes,1
+EUA63MDKYE,61,56271,188321,849,340,7,12.91,24,0.3,Bachelor's,Part-time,Single,Yes,No,Business,No,1
+DGZBRJ2W62,25,83688,42384,804,132,3,14.68,12,0.29,Master's,Unemployed,Divorced,No,No,Auto,No,0
+EZT43GYWII,41,121076,86929,478,201,5,19.41,60,0.81,Bachelor's,Unemployed,Divorced,No,No,Other,Yes,1
+0LY7FSX94P,28,11062,132959,431,347,4,21.17,72,0.27,PhD,Self-employed,Divorced,Yes,Yes,Other,Yes,1
+Z7KQRU67YU,68,60448,81153,754,20,7,18.32,12,0.16,Master's,Part-time,Single,No,No,Home Improvement,Yes,1
+6WRH8W9RAL,34,105462,80388,647,241,9,23.33,24,1.0,High School,Unemployed,Single,Yes,No,Business,Yes,1
+H0QZUTHX11,25,147301,36401,839,108,2,21.05,24,0.12,High School,Part-time,Widowed,Yes,Yes,Other,Yes,0
+8JEYR545BI,52,57915,124503,705,302,8,15.36,72,0.85,Master's,Unemployed,Widowed,No,No,Education,Yes,1
+A9Q87JEGK6,52,14632,132834,375,83,9,17.77,36,0.43,Master's,Self-employed,Divorced,No,No,Education,No,1
+WGN5BPILL6,50,114592,39084,791,82,9,23.38,72,0.86,PhD,Part-time,Single,No,Yes,Education,No,1
+9BI5YR0Y8C,76,144668,115641,493,290,7,16.62,48,0.6,Master's,Unemployed,Married,No,Yes,Auto,No,1
+LKUZNJ2QQJ,22,119779,110111,461,68,9,21.15,12,0.91,High School,Self-employed,Divorced,Yes,Yes,Auto,No,0
+GUJSQESPZ2,59,147240,191898,646,128,9,18.15,36,0.93,PhD,Unemployed,Widowed,No,Yes,Education,Yes,1
+ANXTT0ADEW,56,118099,172523,660,195,3,15.14,60,0.11,High School,Part-time,Single,No,Yes,Home Improvement,No,1
+UHKLDP56DR,75,17561,143299,386,139,4,8.32,48,0.17,Bachelor's,Unemployed,Widowed,No,Yes,Home Improvement,Yes,1
+8P5XJV6T33,58,92152,167982,561,282,2,12.37,36,0.33,Master's,Part-time,Widowed,Yes,Yes,Auto,Yes,0
+E6LX3A69UQ,45,135036,41041,513,311,3,24.29,12,0.7,Bachelor's,Part-time,Single,No,No,Education,No,1
+65DK33EJMD,24,134049,93920,561,233,5,17.47,24,0.9,High School,Unemployed,Divorced,No,No,Home Improvement,No,1
+Q507FSRYEY,26,36734,70681,582,22,5,15.42,60,0.51,Bachelor's,Self-employed,Single,Yes,No,Auto,Yes,0
+TUDGBPC6XD,25,147443,86571,766,152,6,23.53,72,0.65,Bachelor's,Full-time,Divorced,Yes,Yes,Education,Yes,1
+X6FFJ73AZE,29,36069,132556,679,276,7,15.9,12,0.27,High School,Self-employed,Widowed,Yes,No,Business,Yes,0
+88STMDUAF6,51,22910,31160,661,60,7,14.57,48,0.82,High School,Self-employed,Single,Yes,Yes,Education,Yes,0
+8KOJCAXY6Z,50,83479,22633,748,318,1,19.7,48,0.97,Master's,Unemployed,Married,Yes,No,Education,No,1
+MY5T2B9XT8,65,91264,22014,740,51,2,18.68,24,0.34,Bachelor's,Self-employed,Divorced,No,No,Other,Yes,1
+EMEDXZT6X4,72,33275,85532,392,343,9,7.25,24,0.55,PhD,Self-employed,Married,Yes,No,Other,No,0
+EGYXULH8FX,40,82274,54104,723,152,2,13.37,60,0.18,PhD,Full-time,Divorced,Yes,No,Business,Yes,0
+FUZNKWCEQ7,79,110776,177693,441,236,6,13.4,72,0.6,High School,Self-employed,Single,Yes,Yes,Business,Yes,1
+LP1IV9QLII,41,58447,82231,590,310,1,11.32,60,0.55,High School,Full-time,Married,Yes,Yes,Education,Yes,0
+BM5YYC0LP7,54,136394,73388,731,301,3,14.38,24,0.23,Bachelor's,Unemployed,Single,Yes,No,Home Improvement,No,0
+NJW1MLXVEE,52,85703,21014,348,31,2,12.09,24,0.5,High School,Full-time,Divorced,Yes,Yes,Business,Yes,1
+XGX95J2ADL,61,86090,97578,601,54,3,7.39,48,0.4,PhD,Part-time,Divorced,Yes,Yes,Education,No,0
+JWPPUGLVGB,57,27260,169827,489,351,5,12.07,24,0.57,Master's,Part-time,Divorced,Yes,No,Auto,No,0
+NW5WXUS1SD,39,122581,45390,435,35,6,4.59,36,0.63,Master's,Full-time,Divorced,No,Yes,Other,No,0
+A89P8GFX5G,44,13812,28711,703,109,9,15.67,12,0.11,Bachelor's,Part-time,Widowed,No,Yes,Home Improvement,Yes,0
+F2YFD1IEPZ,52,126148,96658,640,176,4,21.78,24,0.78,Master's,Unemployed,Divorced,No,Yes,Education,No,0
+P848A3B7QD,18,126421,62993,617,313,7,18.96,60,0.74,High School,Part-time,Married,Yes,Yes,Auto,No,0
+OUU1M9OEYR,52,11605,163285,662,294,6,10.93,72,0.43,High School,Full-time,Divorced,Yes,No,Other,Yes,1
+YQM1KOGTAB,54,82303,193856,681,335,2,4.92,72,0.15,High School,Unemployed,Single,Yes,No,Auto,Yes,0
+J0AIRIV4XB,64,86125,12421,532,96,8,7.45,72,0.78,High School,Part-time,Widowed,No,Yes,Education,No,1
+D4XM2YZS8I,31,134040,22727,643,212,7,15.0,36,0.96,Bachelor's,Unemployed,Married,Yes,No,Business,No,1
+UHYX4X53L7,20,14324,117418,848,316,7,7.56,60,0.32,Master's,Full-time,Widowed,Yes,No,Other,Yes,1
+M7A0PRN0VE,18,86323,9358,828,136,8,14.97,36,0.39,PhD,Part-time,Widowed,Yes,No,Auto,No,1
+JYSVN19J18,22,19111,70108,482,5,1,8.1,24,0.27,Master's,Unemployed,Widowed,No,Yes,Business,No,1
+TZ45SYNCAS,43,26389,99018,340,108,1,21.68,12,0.62,High School,Unemployed,Single,No,Yes,Home Improvement,No,1
+AMUVJLBB39,72,132177,129457,696,34,8,11.74,72,0.24,PhD,Part-time,Widowed,Yes,No,Education,Yes,1
+GDAQONVXY7,31,51427,168189,793,38,4,8.4,60,0.42,Bachelor's,Unemployed,Widowed,No,No,Education,No,1
+86FIJK0SDP,56,132883,36910,632,149,5,20.87,72,0.73,High School,Unemployed,Divorced,Yes,Yes,Other,Yes,0
+0XUMBEW6F4,44,141189,131888,426,117,8,10.54,36,0.6,High School,Full-time,Single,Yes,No,Auto,Yes,1
+359I0KY8TX,26,135808,60754,300,260,5,5.45,48,0.45,PhD,Full-time,Married,No,Yes,Home Improvement,Yes,1
+EY42LOX7C2,32,122221,198510,467,86,4,15.55,24,0.48,Bachelor's,Full-time,Married,No,No,Other,No,1
+ZY3ENAOUHP,32,23234,114847,318,75,6,15.79,12,0.61,PhD,Full-time,Married,No,Yes,Other,Yes,0
+4YCHITHKHR,43,63441,165443,631,312,5,18.72,24,0.11,Bachelor's,Full-time,Single,No,Yes,Auto,No,1
+XODO36HNVB,59,10846,187573,755,213,7,8.28,48,0.17,High School,Full-time,Married,Yes,Yes,Home Improvement,Yes,0
+5MCCV1A8RB,77,20954,197018,408,284,7,12.76,12,0.89,Master's,Part-time,Single,Yes,Yes,Auto,No,1
+DK6FKJ46RD,30,89239,43467,567,238,4,9.21,48,0.17,High School,Full-time,Divorced,No,No,Education,No,1
+I616BPWW5X,68,56514,153697,744,164,5,4.78,24,0.74,Master's,Unemployed,Divorced,No,Yes,Business,No,0
+AMU77IA5OB,49,98236,38893,539,86,3,22.29,36,0.93,Master's,Part-time,Single,Yes,No,Education,Yes,1
+Z2P6P3EEW6,56,107579,81329,600,140,4,19.04,24,0.34,Bachelor's,Unemployed,Married,Yes,Yes,Education,No,0
+IMOOTX0246,66,147541,36007,402,159,4,9.63,24,0.43,PhD,Full-time,Single,Yes,Yes,Other,No,0
+UEU0XO5OSF,69,52101,175604,549,45,3,16.19,24,0.61,Bachelor's,Full-time,Single,Yes,No,Education,Yes,1
+BE1ONC67TM,78,74323,59253,752,111,5,7.43,60,0.89,High School,Unemployed,Widowed,No,No,Home Improvement,Yes,1
+2PDH458V54,49,101922,17323,819,44,5,22.59,48,0.95,PhD,Unemployed,Single,No,No,Education,No,0
+BPUO2EKKVA,21,137534,116335,452,246,7,5.53,48,0.77,Master's,Unemployed,Widowed,No,Yes,Home Improvement,Yes,0
+AX41DKNJ4N,47,77584,117356,473,103,4,3.08,72,0.18,Master's,Self-employed,Divorced,Yes,Yes,Auto,Yes,1
+TYOQDCX924,54,114537,115944,642,84,4,14.04,48,0.7,High School,Self-employed,Widowed,Yes,No,Other,Yes,1
+BN0I92BP9P,40,88477,150282,730,133,9,15.83,72,0.47,PhD,Self-employed,Single,No,Yes,Home Improvement,No,1
+UAJOVS6ZOU,56,52533,21456,623,107,6,15.74,60,0.52,High School,Self-employed,Divorced,No,No,Education,Yes,0
+DCHPPZ95GU,62,11828,36367,719,17,4,4.2,36,0.14,High School,Part-time,Widowed,No,Yes,Other,No,1
+YKB49EXFZ7,32,11917,59624,784,93,2,9.91,72,0.27,Bachelor's,Full-time,Single,Yes,Yes,Other,Yes,0
+V4KGQ592HH,60,30618,146178,711,149,6,13.98,24,0.81,High School,Unemployed,Divorced,No,Yes,Home Improvement,Yes,1
+MM7QZ1OMFX,46,42254,73008,383,245,2,7.76,36,0.51,PhD,Full-time,Widowed,Yes,No,Home Improvement,No,0
+YW6SS87P3J,53,115292,130926,412,288,5,22.2,60,0.37,High School,Unemployed,Single,No,Yes,Business,Yes,0
+49276B64W5,30,57362,120395,631,208,6,4.92,48,0.45,PhD,Full-time,Single,No,No,Business,Yes,1
+DWIMWGTKAH,49,30128,121492,677,125,4,13.72,72,0.87,Master's,Part-time,Married,No,No,Other,Yes,0
+WJBU60HIRA,24,133781,77240,340,234,3,18.21,24,0.77,High School,Self-employed,Married,Yes,Yes,Business,Yes,0
+DQ4UJLH7PP,76,75545,69315,404,121,7,8.76,12,0.35,PhD,Full-time,Widowed,Yes,No,Education,No,0
+7LOEN1PHTX,68,92180,15756,501,137,2,16.73,12,0.21,Master's,Unemployed,Widowed,Yes,No,Auto,No,0
+ZC1U0JI9WV,39,97958,41378,749,114,6,21.25,36,0.33,PhD,Full-time,Widowed,Yes,Yes,Other,No,0
+ITSO19G36X,45,143291,140327,565,161,4,7.19,48,0.93,Master's,Part-time,Single,Yes,No,Auto,No,1
+UBGJK948L4,19,49809,150556,509,200,6,23.18,12,0.62,Bachelor's,Part-time,Widowed,Yes,No,Business,No,1
+VVK5NP6N2N,59,126748,130703,417,233,4,15.18,36,0.58,High School,Full-time,Single,No,Yes,Home Improvement,No,0
+AWEFZH622A,62,15287,61549,676,27,4,9.58,60,0.64,High School,Self-employed,Widowed,Yes,Yes,Other,No,1
+C8W44SMVW1,79,18512,170575,839,10,4,12.48,36,0.43,Master's,Unemployed,Single,No,Yes,Business,Yes,0
+HVUFWWS9CE,74,142414,78794,383,205,9,9.87,36,0.83,Bachelor's,Part-time,Single,Yes,No,Education,No,0
+0868HV76LZ,70,118872,50113,753,166,7,18.95,36,0.57,PhD,Part-time,Married,No,No,Other,No,1
+OKE7NHMI0L,23,103070,79069,813,246,3,20.52,24,0.21,Bachelor's,Full-time,Divorced,No,Yes,Other,No,0
+94K1GJF1HD,45,89767,141321,686,46,3,21.32,36,0.22,PhD,Part-time,Single,Yes,No,Home Improvement,Yes,0
+5JHPQTMSSN,45,107829,155273,649,245,6,24.69,72,0.58,PhD,Part-time,Widowed,No,Yes,Other,No,0
+BBGLBCEJT0,61,52078,130541,595,126,6,20.41,36,0.94,High School,Unemployed,Married,Yes,Yes,Home Improvement,No,1
+TFBNZZJN1U,61,116288,194648,557,146,4,16.23,24,0.38,Master's,Self-employed,Widowed,Yes,Yes,Business,No,1
+6IENYO5TNI,37,93524,14686,380,117,9,10.46,24,0.88,High School,Unemployed,Widowed,Yes,No,Education,Yes,0
+35BZEOMUJM,47,22219,58363,567,151,4,14.98,60,0.79,High School,Self-employed,Single,Yes,No,Education,No,0
+0BSZYP6TBE,79,10235,102543,718,71,9,3.9,48,0.32,High School,Unemployed,Single,No,Yes,Other,Yes,0
+39UE49JHRQ,28,52929,136733,534,136,4,19.39,12,0.13,PhD,Full-time,Divorced,Yes,Yes,Other,Yes,0
+W9URY56BMT,75,137309,180915,610,174,2,12.81,12,0.19,High School,Part-time,Single,No,No,Business,Yes,0
+62WF5SPIU5,72,77444,100673,656,288,2,3.44,36,0.76,PhD,Self-employed,Single,No,Yes,Home Improvement,Yes,1
+LH2VQ273FP,45,149639,197035,512,18,5,4.38,60,0.28,Master's,Full-time,Divorced,No,No,Education,No,1
+3JDTRT2J2S,42,111834,47828,348,194,4,11.52,36,0.43,PhD,Part-time,Widowed,Yes,Yes,Home Improvement,Yes,1
+03XES45YEQ,56,94555,53604,426,329,7,15.84,12,0.55,PhD,Part-time,Divorced,No,Yes,Business,Yes,1
+Q8HBFRB6MO,79,83698,15526,522,174,5,13.21,24,0.75,Bachelor's,Part-time,Divorced,Yes,No,Education,No,0
+ZK8NH7YKLN,50,134450,73910,578,353,6,16.62,48,0.2,High School,Unemployed,Divorced,No,No,Education,Yes,0
+B1L8EFAFRD,18,146487,30592,707,140,4,13.57,60,0.47,High School,Full-time,Married,Yes,No,Auto,Yes,1
+4BVNZDMWZT,74,53925,33982,804,245,2,17.56,24,0.54,High School,Full-time,Widowed,Yes,No,Business,Yes,1
+102E13Y3ZI,44,147023,5207,593,92,9,7.82,48,0.59,High School,Part-time,Married,Yes,No,Business,Yes,0
+PZQKL3H5V9,79,97388,93733,576,238,7,5.48,60,0.84,Bachelor's,Self-employed,Married,Yes,Yes,Auto,Yes,1
+M3OVIRI1M8,74,18007,129982,737,204,4,16.12,60,0.25,Bachelor's,Full-time,Single,No,Yes,Home Improvement,Yes,0
+3FHDFGB951,69,68596,73619,406,47,3,13.66,12,0.83,Bachelor's,Unemployed,Divorced,No,No,Auto,No,0
+MZQ17CJWAQ,30,131101,165400,719,244,3,3.59,24,0.72,Bachelor's,Self-employed,Divorced,Yes,No,Business,No,0
+VPDDC1EUEH,58,98861,51479,728,319,9,11.37,60,0.6,High School,Self-employed,Married,No,Yes,Home Improvement,No,1
+YA9EMOYUQN,20,96740,156175,674,316,5,5.33,72,0.73,PhD,Self-employed,Single,Yes,Yes,Education,No,1
+IHYQK1L7WD,56,25524,175963,372,294,3,14.69,60,0.47,Master's,Self-employed,Single,Yes,No,Auto,Yes,1
+8OHPE3P2JF,23,141149,146826,329,127,5,11.71,48,0.22,Bachelor's,Full-time,Single,No,No,Home Improvement,Yes,1
+PYE3SOISVW,25,135501,86437,487,343,2,16.49,12,0.7,PhD,Part-time,Widowed,Yes,Yes,Home Improvement,Yes,1
+BUOH2IE5RC,44,30611,103540,663,281,4,20.72,36,0.57,Bachelor's,Self-employed,Married,Yes,No,Home Improvement,No,0
+URJR8GV7WP,26,24060,77982,750,16,2,9.59,12,0.68,High School,Unemployed,Widowed,Yes,Yes,Auto,No,1
+XZYYPCOVEH,79,53303,107747,494,70,2,24.17,36,0.4,High School,Unemployed,Single,Yes,Yes,Education,Yes,0
+X8O3NNMQF4,54,49711,191994,455,268,8,14.78,24,0.92,PhD,Part-time,Single,Yes,No,Home Improvement,Yes,0
+J71OMMCNR5,50,83340,53231,471,324,1,16.6,24,0.63,PhD,Full-time,Single,No,Yes,Auto,No,0
+79XZN6X4E1,68,112974,34301,340,281,7,17.97,60,0.18,PhD,Part-time,Divorced,No,Yes,Business,No,1
+EHCKF1POJW,59,77728,198783,362,304,5,17.67,72,0.5,High School,Self-employed,Married,No,Yes,Auto,No,1
+ZEF9JIFHKR,61,21246,177395,322,6,8,14.24,24,0.78,High School,Full-time,Divorced,Yes,No,Auto,No,1
+Q6TMY7NJVC,41,137796,23752,659,313,1,12.43,60,0.81,Master's,Full-time,Widowed,Yes,Yes,Auto,Yes,1
+FT1RK1N2A4,32,102263,103452,374,304,7,4.18,12,0.55,PhD,Self-employed,Divorced,Yes,No,Home Improvement,No,1
+63WP36NCMG,76,145090,149467,417,102,5,3.49,24,0.91,Master's,Unemployed,Married,Yes,Yes,Auto,No,1
+R6THASNDBT,71,21302,126237,679,308,4,10.88,12,0.34,Bachelor's,Self-employed,Divorced,Yes,Yes,Business,Yes,1
+RU36BG39IA,49,77506,61273,589,192,7,10.34,12,0.47,Master's,Part-time,Single,Yes,Yes,Home Improvement,Yes,1
+VRL0G9GMHO,49,51157,96878,739,240,2,11.53,72,0.91,Bachelor's,Self-employed,Widowed,No,Yes,Business,Yes,0
+RJK9BZDVWY,41,64917,9895,306,61,1,6.04,24,0.91,Bachelor's,Unemployed,Widowed,Yes,Yes,Other,No,1
+M7J4Y81QMK,58,106646,124968,495,16,1,19.24,12,0.72,Master's,Self-employed,Single,No,No,Auto,No,0
+I9GK3YIBX1,69,93122,120700,720,170,1,21.85,72,0.87,PhD,Part-time,Single,Yes,No,Home Improvement,No,0
+9Q3N81MB6J,66,34519,81559,492,24,5,23.65,72,0.18,Bachelor's,Part-time,Single,No,Yes,Home Improvement,No,0
+HSW2USH9CN,79,90910,15699,447,250,7,13.83,24,0.88,PhD,Unemployed,Married,Yes,No,Auto,Yes,0
+OC6ENCWT0Q,66,130430,14715,501,252,2,18.42,72,0.39,High School,Part-time,Divorced,No,No,Education,Yes,1
+7REA5ZZ0QT,75,81324,24169,743,206,8,21.82,24,0.26,Bachelor's,Part-time,Widowed,No,Yes,Education,No,1
+36I8XN4AX7,69,15408,123413,718,28,4,12.2,24,0.32,High School,Self-employed,Divorced,Yes,No,Business,No,0
+DANRXRR357,29,69379,152235,726,116,3,9.81,36,0.48,Master's,Full-time,Single,Yes,No,Auto,No,0
+K6O510GNP6,79,35053,124264,778,281,8,23.61,12,0.33,PhD,Part-time,Single,No,No,Auto,Yes,0
+X3JEFQJKMX,56,141994,10782,774,143,2,14.34,48,0.39,Master's,Part-time,Divorced,Yes,No,Other,No,1
+CBW3MOUYAC,19,108723,129481,425,24,3,13.94,24,0.22,Bachelor's,Unemployed,Widowed,Yes,Yes,Education,Yes,0
+ANQIDXV0HX,20,61356,40585,694,309,3,6.93,12,0.37,High School,Unemployed,Married,Yes,No,Education,No,0
+5SX9G370GA,66,20789,35682,624,155,1,5.38,72,0.62,Bachelor's,Self-employed,Divorced,No,Yes,Auto,Yes,1
+41XER3QE2Y,54,107720,183936,691,72,6,21.53,60,0.5,Master's,Self-employed,Single,Yes,Yes,Business,Yes,0
+KBZ498GMZ9,66,76656,134992,739,119,2,16.51,24,0.41,PhD,Part-time,Single,No,No,Auto,No,1
+CMOVH4JKQO,73,54028,89416,503,311,1,10.17,72,0.77,PhD,Full-time,Married,No,Yes,Business,Yes,1
+SS9W3TWJDU,34,74484,191186,785,320,2,7.22,72,0.9,Bachelor's,Full-time,Divorced,Yes,No,Education,Yes,0
+CT7WKENMH0,76,42154,132810,330,92,6,15.22,72,0.78,Bachelor's,Self-employed,Married,No,Yes,Other,No,0
+Z3LMMBIP04,66,12336,43067,687,85,4,15.85,72,0.4,High School,Unemployed,Married,Yes,No,Home Improvement,Yes,0
+L8TF4P9C9E,19,113677,178757,733,335,6,7.55,72,0.77,Master's,Part-time,Widowed,Yes,No,Education,No,1
+NCYL8UBQ41,19,77779,23073,675,117,9,21.73,24,0.24,Bachelor's,Part-time,Widowed,No,Yes,Business,Yes,1
+UB4DDNF5GU,45,29029,41035,643,232,8,4.85,48,0.22,High School,Full-time,Single,No,No,Auto,Yes,1
+PCD17KZXHO,71,69201,95373,742,198,1,10.83,36,0.41,Bachelor's,Self-employed,Divorced,No,No,Education,Yes,0
+8V2BBOUQ6N,40,42265,88362,374,205,8,17.97,72,0.83,PhD,Full-time,Widowed,No,No,Other,Yes,0
+J48KLBMCQD,54,112916,95517,454,338,9,9.03,72,0.32,High School,Full-time,Single,No,No,Business,No,0
+Z3M03C704T,49,56197,70450,729,146,6,21.21,36,0.16,High School,Self-employed,Divorced,Yes,Yes,Auto,No,0
+A99N80IPPF,50,135733,15382,662,270,5,19.28,24,0.22,Bachelor's,Unemployed,Single,No,Yes,Home Improvement,No,0
+ORS3KA1VYU,18,81907,140509,747,138,6,20.36,12,0.87,Master's,Part-time,Widowed,Yes,Yes,Business,Yes,0
+DSQSTFVB30,36,138876,66929,533,180,6,5.62,60,0.67,PhD,Unemployed,Single,Yes,No,Auto,Yes,1
+MG6VCWQYQN,79,74435,103864,561,29,9,6.09,60,0.33,Master's,Self-employed,Divorced,No,Yes,Home Improvement,No,1
+ZUL2S8NTSZ,19,50631,148401,424,56,4,9.3,12,0.6,High School,Self-employed,Divorced,No,No,Auto,No,1
+MECFGA4MTK,70,139038,30169,544,231,2,14.4,24,0.57,Master's,Part-time,Single,No,No,Home Improvement,No,0
+G38VQSBY3V,61,30103,92468,841,145,9,19.46,60,0.69,High School,Unemployed,Divorced,No,No,Home Improvement,No,1
+AJDQBWW6ZU,43,74772,39594,784,47,2,21.4,36,0.31,Master's,Part-time,Single,No,Yes,Home Improvement,Yes,1
+OTVYSOQUPH,49,136108,196703,421,193,9,18.5,12,0.88,Bachelor's,Full-time,Divorced,Yes,Yes,Auto,No,1
+M64OQSCARY,23,24382,50033,424,223,2,23.43,48,0.38,Master's,Full-time,Single,Yes,Yes,Home Improvement,Yes,0
+ZNT5W7Q0ST,49,94291,68133,848,135,8,19.25,24,0.72,High School,Full-time,Single,Yes,Yes,Business,No,0
+7OPHKBO8FA,72,111195,78861,469,21,9,9.74,12,0.11,PhD,Unemployed,Single,No,No,Other,Yes,1
+0UFDKS0G70,21,144828,188362,423,5,9,8.83,60,0.44,PhD,Full-time,Married,No,Yes,Other,No,0
+JPP84N7C2A,72,30609,36750,334,203,9,18.32,24,0.42,PhD,Part-time,Divorced,Yes,Yes,Home Improvement,No,0
+DAP6ZE4MNA,28,85683,45461,386,238,2,7.24,36,0.59,High School,Unemployed,Widowed,No,Yes,Other,Yes,0
+P3K58CARA0,73,134714,83222,500,184,4,5.04,24,0.17,Master's,Part-time,Single,No,Yes,Other,Yes,0
+PGBFV0NQFU,76,140330,117020,668,359,7,14.71,24,0.81,PhD,Self-employed,Married,No,No,Home Improvement,No,1
+MBHRUN3AQW,34,81315,29226,376,291,2,21.08,36,0.3,PhD,Unemployed,Widowed,Yes,Yes,Home Improvement,Yes,0
+JI52A30Y1A,55,87834,11721,358,334,1,5.23,72,0.71,PhD,Part-time,Single,No,Yes,Business,No,1
+U51B7RKKV6,41,136205,192226,730,219,3,20.42,36,0.82,Bachelor's,Part-time,Widowed,Yes,Yes,Education,Yes,1
+K1AP2645R3,22,24153,25609,799,115,4,20.85,24,0.61,High School,Unemployed,Married,No,No,Auto,No,0
+QM29LL72Y2,69,86325,188202,408,312,8,13.61,36,0.77,High School,Self-employed,Widowed,No,Yes,Home Improvement,No,0
+P8VHM2JPMY,51,65318,135513,577,48,6,4.26,72,0.7,High School,Unemployed,Single,Yes,Yes,Home Improvement,No,0
+8NEKZOICSY,23,141886,109211,367,172,2,6.84,12,0.42,High School,Full-time,Widowed,No,Yes,Other,No,1
+PS34AX48S7,39,125033,191321,368,81,9,18.56,36,0.83,High School,Full-time,Widowed,No,No,Business,No,1
+W02Q5HI9ZH,28,86077,184967,464,321,2,18.66,36,0.37,Bachelor's,Self-employed,Single,No,No,Other,No,1
+35UHMA4YG0,65,100474,141728,788,332,5,22.76,24,0.61,Master's,Part-time,Married,Yes,Yes,Home Improvement,No,1
+JMXNIQ46CK,33,143515,129865,604,44,4,15.82,12,0.77,Bachelor's,Part-time,Married,No,Yes,Home Improvement,No,1
+BI2345DF1Y,50,83319,79520,664,334,7,5.73,48,0.44,PhD,Part-time,Widowed,No,No,Other,Yes,1
+VM31SO3FDI,26,135885,199812,678,19,8,5.67,48,0.37,Bachelor's,Unemployed,Divorced,No,No,Home Improvement,Yes,1
+11T2YOK62P,77,119777,69309,642,220,5,18.86,60,0.51,High School,Unemployed,Widowed,No,No,Education,Yes,0
+Z5QWOWFNRT,76,27368,34984,653,122,5,7.04,36,0.84,Bachelor's,Self-employed,Divorced,No,No,Auto,No,1
+ZWM1XBREKS,23,101751,123947,715,233,2,10.22,36,0.94,High School,Full-time,Widowed,Yes,No,Auto,No,1
+H4Z7QG764M,33,37306,10901,408,220,8,13.72,12,0.59,Bachelor's,Part-time,Married,Yes,Yes,Auto,No,1
+SE2ZRYPD6B,46,47219,167624,796,322,2,3.54,72,0.7,High School,Full-time,Widowed,No,Yes,Education,Yes,1
+TB4P4A4UNV,20,70279,36055,640,338,6,8.47,48,0.91,PhD,Unemployed,Widowed,No,Yes,Home Improvement,Yes,0
+IMVR6QMSSV,37,63028,173757,682,2,8,11.97,60,0.19,High School,Unemployed,Divorced,Yes,Yes,Other,Yes,1
+5BQC9M3TAY,77,114263,150788,832,181,6,9.15,12,0.31,Bachelor's,Unemployed,Married,No,No,Business,Yes,1
+3NR2KT728M,76,10126,119099,599,205,4,6.0,36,0.74,PhD,Full-time,Divorced,No,No,Home Improvement,Yes,0
+VNDHYQ2D73,53,62329,16138,438,319,4,19.02,48,0.84,Bachelor's,Self-employed,Widowed,No,No,Education,No,0
+WFI0BVTKF0,36,37632,171370,658,39,6,20.89,60,0.87,PhD,Self-employed,Single,No,No,Education,Yes,1
+RVCKNHZVV8,43,119945,187184,798,58,4,8.66,24,0.47,Master's,Unemployed,Widowed,No,No,Auto,No,1
+WK0GA06793,20,65176,28429,684,61,8,20.04,48,0.18,Master's,Part-time,Widowed,No,Yes,Home Improvement,No,1
+HC3A1IYSP8,36,144869,55200,579,131,9,11.48,60,0.49,Master's,Full-time,Divorced,No,Yes,Auto,No,1
+C4ZDG9YTCU,37,44560,184316,782,59,1,14.15,12,0.31,Bachelor's,Unemployed,Single,No,Yes,Business,Yes,1
+9JUHTRBZMU,49,86589,106268,410,330,4,21.83,24,0.36,Bachelor's,Full-time,Single,Yes,Yes,Auto,Yes,1
+GMF8XL8O0Y,24,32116,22347,438,121,4,19.5,60,0.8,PhD,Full-time,Divorced,Yes,Yes,Business,No,0
+W2Z1W8598T,69,142717,152992,734,106,2,20.71,60,0.17,PhD,Self-employed,Married,No,No,Education,Yes,0
+NY824E3GJP,58,134085,36822,808,95,6,6.01,36,0.84,PhD,Unemployed,Single,No,No,Auto,Yes,1
+YGW5QPTYRB,50,127718,182731,572,346,3,4.53,72,0.48,PhD,Self-employed,Single,No,No,Auto,No,1
+W6DD2UYYEH,57,29256,45108,398,234,7,22.65,48,0.64,High School,Unemployed,Divorced,No,No,Other,No,1
+3JIF3PK0K0,56,110158,133955,403,61,5,11.53,36,0.18,Master's,Full-time,Married,Yes,No,Education,No,0
+6O1Y3SBEPU,35,129719,12967,513,255,4,9.33,24,0.4,High School,Self-employed,Married,Yes,Yes,Other,No,1
+ZQ62JT1GNV,57,78244,115719,464,48,5,18.94,72,0.18,High School,Full-time,Widowed,Yes,Yes,Business,No,0
+WJ901SLO6D,18,66264,16871,819,347,8,21.4,60,0.97,High School,Unemployed,Widowed,Yes,Yes,Business,Yes,0
+FODZUEE4D9,28,67545,169685,583,158,3,21.97,36,0.83,High School,Part-time,Divorced,No,No,Education,No,1
+42QJKE1O14,45,49224,33179,816,123,7,9.95,72,0.51,Master's,Self-employed,Married,No,No,Business,Yes,0
+V51TRFZBCF,74,107945,188260,463,316,6,21.75,48,0.3,High School,Self-employed,Divorced,No,No,Education,Yes,1
+DRP6CC6ECX,42,23224,60099,363,206,1,3.9,24,0.94,PhD,Full-time,Widowed,Yes,No,Business,No,0
+BYDCL9997C,67,50738,40262,390,47,7,4.09,12,0.41,Bachelor's,Full-time,Divorced,No,Yes,Home Improvement,No,1
+SKZ27DWEEI,40,73731,83213,416,135,7,16.72,36,0.24,PhD,Part-time,Divorced,No,No,Auto,Yes,1
+CAM95KV6KJ,48,149649,122407,566,200,1,4.39,24,0.61,Bachelor's,Self-employed,Single,Yes,Yes,Home Improvement,No,0
+M3J7G8736F,47,18070,154340,439,249,9,10.14,12,0.95,PhD,Unemployed,Single,Yes,No,Education,Yes,0
+NK5KMNGOKR,59,136161,91269,545,313,6,17.8,36,0.1,PhD,Unemployed,Single,Yes,Yes,Education,No,0
+E07PRW3LDQ,52,18666,65545,694,356,2,10.42,24,0.31,Bachelor's,Self-employed,Widowed,Yes,No,Home Improvement,No,1
+VIJFVFATT7,24,67761,44922,786,317,5,6.95,24,0.94,Master's,Self-employed,Divorced,Yes,No,Auto,Yes,0
+BLDL6IAE4X,77,46368,47913,775,294,4,9.19,72,0.25,High School,Self-employed,Single,No,Yes,Auto,Yes,0
+36RD0GYKXM,33,147855,102033,816,313,7,13.07,36,0.2,PhD,Part-time,Single,No,Yes,Other,No,1
+J6ID1MTMNQ,43,51914,109792,483,208,8,13.46,24,0.61,Master's,Unemployed,Single,Yes,No,Business,No,1
+UJV4Q1PBFU,65,137738,191749,319,354,1,20.23,60,0.88,High School,Unemployed,Widowed,No,Yes,Other,No,0
+311ABKP1DD,74,77526,185913,823,210,5,19.5,36,0.53,Master's,Full-time,Widowed,No,No,Auto,Yes,0
+NDC5ER6IZR,69,29956,182404,828,191,3,13.05,24,1.0,Master's,Full-time,Divorced,No,No,Home Improvement,No,0
+3413DOIOP2,77,56240,124863,446,43,1,21.6,72,0.71,High School,Self-employed,Divorced,No,Yes,Business,No,1
+X0B6NHJHJW,66,131008,161104,603,28,3,5.51,12,0.17,PhD,Full-time,Divorced,Yes,No,Home Improvement,No,1
+S0VNILAGRN,19,104270,173918,527,58,6,8.62,12,0.99,Master's,Part-time,Single,No,No,Other,No,0
+YBQDENGOR1,18,14757,195546,401,70,7,21.22,60,0.47,PhD,Unemployed,Married,No,Yes,Education,Yes,1
+4ML4CMVJAS,65,29097,49936,716,91,8,11.32,36,0.36,PhD,Unemployed,Widowed,No,No,Home Improvement,Yes,0
+DGAFHACEZR,79,113892,165866,515,264,4,24.59,72,0.6,PhD,Full-time,Single,Yes,No,Other,Yes,0
+ZWHYT6KCBK,29,80480,197660,706,219,3,13.26,24,0.37,High School,Self-employed,Single,No,No,Other,No,1
+FI0DAAANRE,22,56163,186403,698,214,5,20.42,24,0.18,Bachelor's,Full-time,Divorced,Yes,No,Other,No,0
+3OXOWX64L1,54,29816,33141,798,276,9,11.85,12,0.1,PhD,Self-employed,Divorced,Yes,Yes,Education,No,0
+83ZSK3DZJ1,49,62853,145146,764,63,6,12.35,72,0.5,Bachelor's,Part-time,Single,Yes,Yes,Education,Yes,1
+7YEP77W803,76,106731,142478,381,345,9,11.42,60,0.85,Bachelor's,Unemployed,Widowed,Yes,Yes,Education,Yes,0
+QWF858Y050,72,72823,102359,664,291,6,18.82,12,0.62,Master's,Part-time,Widowed,No,No,Business,Yes,0
+UHBMVZ2QTY,26,11759,128279,462,244,2,15.05,12,1.0,PhD,Unemployed,Single,Yes,Yes,Education,Yes,1
+2TYAWGDQIH,58,102374,159363,347,61,5,23.76,60,0.36,PhD,Part-time,Married,Yes,Yes,Education,No,0
+KHXH5ONBHM,52,143554,46568,810,331,9,8.52,36,0.35,PhD,Full-time,Married,Yes,Yes,Education,Yes,0
+KBNR8VFT7I,36,34442,102539,628,169,8,5.21,24,0.24,Bachelor's,Part-time,Widowed,Yes,No,Home Improvement,Yes,1
+NNNYTJBH4S,65,103501,51851,415,268,7,11.65,36,0.25,High School,Part-time,Divorced,Yes,Yes,Education,No,1
+D4A3XIGS1O,33,12079,59823,636,266,1,16.57,72,0.36,Bachelor's,Full-time,Married,No,Yes,Business,Yes,1
+0W7H0OQ1ZG,20,143789,28312,446,53,4,21.94,48,0.81,PhD,Unemployed,Married,Yes,No,Other,No,0
+9E9YL3R9RP,37,69676,179180,622,15,7,10.62,48,0.92,PhD,Unemployed,Divorced,No,No,Home Improvement,No,1
+5GHMMRYNHO,41,100397,170243,742,7,7,17.38,48,0.98,PhD,Full-time,Married,No,No,Auto,No,0
+6FK2H5LTJS,71,82847,177851,312,103,6,10.7,60,0.31,Bachelor's,Part-time,Single,Yes,No,Education,No,1
+CNYHQ5GG3W,73,103607,103723,793,58,8,16.58,12,0.89,PhD,Part-time,Married,No,No,Other,No,0
+4QQY8SSWDJ,50,74077,17411,586,312,6,22.47,36,0.4,Master's,Part-time,Divorced,No,No,Other,Yes,0
+W4EBSLPL0H,41,48258,62009,413,39,3,8.09,24,0.2,PhD,Self-employed,Single,No,Yes,Home Improvement,Yes,1
+RSGT7G441X,69,147717,151494,779,236,4,11.89,48,0.88,High School,Unemployed,Married,Yes,Yes,Auto,No,0
+9KKSD9WWP5,28,129771,178540,321,93,3,24.85,36,0.67,Master's,Part-time,Widowed,Yes,No,Business,Yes,0
+LDV6ONLRXM,66,48000,37371,648,221,1,22.11,48,0.25,PhD,Unemployed,Single,Yes,No,Other,No,1
+CRQQNBBDE1,25,36737,62022,619,203,5,15.42,48,0.49,Master's,Part-time,Single,Yes,Yes,Other,Yes,0
+6V2N88RHC2,53,21485,76229,425,137,1,14.37,24,0.36,PhD,Full-time,Widowed,Yes,No,Other,Yes,0
+SIR7GY99KB,55,48565,104071,576,299,1,9.26,72,0.76,High School,Full-time,Widowed,Yes,No,Other,Yes,0
+X5SJ997ZV1,57,129614,187268,503,206,2,14.38,72,0.51,PhD,Unemployed,Married,Yes,Yes,Home Improvement,Yes,1
+HJFIHQ3WVG,37,75155,101774,493,335,4,21.66,72,0.99,Master's,Unemployed,Married,No,No,Auto,Yes,1
+KDYTHU30KA,79,62487,31715,846,80,6,18.07,60,0.15,High School,Full-time,Divorced,No,No,Other,Yes,1
+DRLO8J3JVF,52,139948,32605,585,217,8,9.38,12,0.42,Bachelor's,Self-employed,Divorced,Yes,Yes,Business,Yes,1
+VLPULHHMQ0,65,22342,104853,356,1,3,7.43,60,0.53,High School,Full-time,Single,No,Yes,Business,No,1
+SBLJ6F4RRR,79,50806,36174,602,177,1,8.83,36,0.55,High School,Part-time,Widowed,Yes,Yes,Education,No,1
+8TB6BKFY72,42,58770,146028,462,345,3,6.73,60,0.38,High School,Self-employed,Widowed,Yes,Yes,Other,No,1
+TJ93JL8TXV,52,88623,81373,318,278,3,5.1,36,0.76,Master's,Full-time,Divorced,Yes,Yes,Other,Yes,1
+07TELK3UR8,42,113177,74252,669,145,5,12.22,36,0.89,High School,Self-employed,Single,No,No,Other,Yes,0
+BP9ZMOW6PL,46,141026,198021,563,317,4,5.49,12,0.94,PhD,Self-employed,Single,Yes,No,Other,No,0
+OQ4YUMRZ4M,35,85629,198718,412,223,4,6.78,24,0.82,High School,Self-employed,Divorced,Yes,No,Other,No,0
+2K8R0EGLDR,63,130993,75017,787,61,9,15.04,12,0.87,High School,Unemployed,Divorced,Yes,No,Business,Yes,0
+XQG6Z4Z0NX,35,136944,68037,626,293,7,6.62,72,0.6,PhD,Full-time,Divorced,Yes,No,Auto,No,1
+THX2PASBPV,19,115947,94818,841,238,4,4.41,72,0.84,PhD,Unemployed,Married,No,Yes,Auto,No,0
+34XHE9GHYD,71,36399,11548,364,194,3,9.98,60,0.37,Bachelor's,Unemployed,Single,Yes,No,Education,No,0
+7XIU8GCNJQ,52,138177,121981,591,165,6,7.85,36,0.46,High School,Part-time,Single,No,No,Business,No,0
+NKMS9EZHQQ,33,119575,159249,324,221,3,14.34,48,0.39,Master's,Part-time,Single,No,No,Other,Yes,0
+V8YYVKIW7I,78,120904,29022,848,60,6,5.25,48,0.52,High School,Self-employed,Divorced,Yes,No,Auto,No,0
+QTJ2AXTAC3,58,40678,111297,300,128,9,19.54,36,0.36,High School,Self-employed,Divorced,Yes,No,Home Improvement,No,1
+68Y3HAQPWR,53,86218,141614,848,172,6,22.94,12,0.97,PhD,Part-time,Divorced,No,Yes,Home Improvement,No,1
+4CYIOPIZS1,50,73230,65428,440,155,4,19.36,24,0.38,Bachelor's,Part-time,Divorced,No,No,Home Improvement,No,0
+OE5877KO6I,21,84055,158812,487,109,5,14.72,12,0.19,High School,Full-time,Widowed,No,No,Other,Yes,0
+8JJI6NLXMT,50,82258,64353,427,268,6,21.93,36,0.57,Master's,Self-employed,Divorced,No,No,Other,No,0
+A5KU70KKMM,31,49986,118132,500,355,3,18.29,36,0.15,High School,Self-employed,Married,Yes,No,Education,No,0
+TQAUHPIRQW,38,95595,192604,426,277,8,3.23,24,0.2,Master's,Part-time,Widowed,No,No,Education,No,1
+5KHLXVKU6P,65,111358,21052,556,73,4,11.67,60,0.3,PhD,Full-time,Widowed,No,No,Education,No,0
+1B9LNFSK0B,37,74929,105689,846,206,8,21.72,60,0.52,Bachelor's,Part-time,Divorced,No,Yes,Home Improvement,No,1
+51M4ME5YFA,73,83506,183148,493,278,3,10.61,24,0.49,High School,Part-time,Single,No,No,Other,Yes,0
+5NP1I7GYKO,25,44911,189492,403,325,7,3.77,60,0.82,Bachelor's,Unemployed,Divorced,Yes,Yes,Home Improvement,No,1
+827MPDQ5C6,24,97127,136743,834,339,9,19.42,48,0.77,High School,Self-employed,Single,Yes,Yes,Education,No,1
+9LZRCGTUV3,20,123453,5163,564,356,4,20.64,60,0.48,Master's,Full-time,Divorced,Yes,No,Other,Yes,1
+MNZ5805P3V,34,94458,46424,683,339,8,6.53,60,0.4,Bachelor's,Unemployed,Divorced,No,No,Business,No,0
+N1L1QI7R91,50,22175,189816,559,203,3,14.82,60,0.38,High School,Self-employed,Single,No,No,Auto,Yes,0
+BPR5V7EI8B,65,129235,146706,713,160,7,7.22,48,0.8,PhD,Part-time,Single,Yes,Yes,Auto,No,1
+5MTLRUJOL2,29,64771,140870,657,27,3,18.82,60,0.15,Master's,Full-time,Single,Yes,No,Education,Yes,0
+HGMDW9GACZ,76,137157,27420,374,256,7,8.97,72,0.11,Bachelor's,Self-employed,Single,No,No,Home Improvement,Yes,0
+JI2MST4Y1V,68,131300,125575,654,164,6,9.96,48,0.82,High School,Part-time,Married,Yes,No,Business,No,1
+G7W7W04NDL,39,96925,34300,487,62,2,21.59,24,0.53,Bachelor's,Unemployed,Single,No,Yes,Other,Yes,0
+YTRRG5M0C8,72,76358,94881,589,21,3,13.48,12,0.22,High School,Full-time,Divorced,No,Yes,Home Improvement,No,1
+N3ZC7FA3J9,39,57057,15749,344,69,6,17.73,24,0.31,Master's,Self-employed,Divorced,No,No,Education,Yes,0
+XCXEUG6X83,63,16150,109131,382,95,4,11.85,12,0.94,PhD,Unemployed,Married,No,Yes,Home Improvement,Yes,0
+VMJTQ8KJZ7,47,14425,161193,422,162,6,9.56,24,0.87,Master's,Part-time,Single,No,No,Education,No,1
+9ZW61XR6W4,55,26032,133563,657,78,1,16.76,72,0.74,Bachelor's,Part-time,Divorced,No,Yes,Auto,Yes,1
+JG4IU07SUP,55,12198,42487,827,4,1,6.41,12,0.53,Bachelor's,Self-employed,Married,Yes,No,Auto,No,1
+13M3O15JPZ,62,128865,169433,365,315,3,11.21,12,0.57,High School,Part-time,Divorced,Yes,Yes,Home Improvement,Yes,1
+8AE0HHK5TH,68,149777,26223,674,119,8,7.6,36,0.98,Master's,Full-time,Married,Yes,No,Business,Yes,0
+OD3HKSTTAA,71,33236,77930,461,301,8,18.31,12,0.97,High School,Self-employed,Married,No,No,Other,No,0
+PU7YY7ZH78,25,97955,150128,679,177,4,23.77,12,0.29,Master's,Unemployed,Widowed,Yes,Yes,Education,No,0
+UMG1VYV2G3,44,113145,33380,657,175,6,24.9,36,0.83,Bachelor's,Self-employed,Widowed,No,Yes,Other,Yes,1
+M8WJFARF2O,44,104914,31035,487,216,8,12.91,60,0.28,High School,Self-employed,Single,No,Yes,Auto,No,0
+6W8VI42NL6,51,112870,35620,621,55,7,8.56,60,0.29,High School,Unemployed,Widowed,No,Yes,Business,No,0
+PW9W6ZS0WJ,38,126243,155949,749,186,7,12.74,36,0.71,Master's,Part-time,Married,No,Yes,Business,Yes,0
+EGN1YO9D2G,47,24596,191388,773,231,4,21.64,48,0.46,PhD,Unemployed,Divorced,Yes,No,Other,Yes,1
+J5M64NFIFL,50,142351,122360,312,254,9,7.53,12,0.94,Master's,Full-time,Divorced,Yes,No,Auto,No,1
+IU1JNCHSOS,45,121496,58352,483,103,6,23.95,12,0.18,PhD,Part-time,Single,Yes,Yes,Other,Yes,0
+Q3UFSUOAEX,64,140273,166983,410,76,3,10.52,36,0.56,Master's,Self-employed,Widowed,No,No,Home Improvement,No,0
+7LCESNKBKR,50,148155,168856,807,229,5,24.69,36,0.93,Bachelor's,Part-time,Single,Yes,No,Business,No,1
+QTHDWIE1AL,22,130674,8191,589,257,5,21.45,48,0.91,High School,Part-time,Married,Yes,Yes,Business,No,1
+KTN3H70GTF,77,130307,169232,594,263,5,20.79,72,0.24,Master's,Full-time,Widowed,Yes,No,Home Improvement,No,1
+QT4P323J21,78,29063,95536,750,330,8,9.99,60,0.43,Bachelor's,Part-time,Single,No,No,Auto,No,1
+SB4WU3BAGD,65,77642,109576,514,181,9,3.19,24,0.66,Master's,Part-time,Divorced,Yes,Yes,Business,No,0
+VB6I5HGQF4,36,100093,185795,326,255,9,11.41,72,0.24,High School,Part-time,Divorced,No,Yes,Education,Yes,1
+HCPJ7W5TND,21,45954,8631,530,37,6,9.64,60,0.97,Master's,Self-employed,Single,Yes,No,Education,No,0
+BC42DD9NUZ,52,37856,142244,620,175,6,3.82,12,0.92,PhD,Part-time,Single,No,Yes,Auto,Yes,1
+2P5OFJ8LP9,66,12573,47080,532,26,9,14.12,72,0.25,High School,Unemployed,Single,Yes,No,Home Improvement,No,0
+0U8371HPVG,34,45367,95353,736,275,4,11.87,36,0.21,PhD,Part-time,Married,Yes,Yes,Other,Yes,0
+TXLRJR0W17,61,109608,156353,832,139,6,16.96,48,0.18,Bachelor's,Full-time,Married,Yes,Yes,Auto,Yes,1
+7194WJZHKU,45,70774,33671,702,298,4,16.67,60,0.92,Bachelor's,Part-time,Divorced,No,Yes,Other,Yes,0
+S7X6ENLMDH,47,33752,127811,352,286,1,5.66,48,0.27,Master's,Part-time,Married,Yes,Yes,Auto,No,0
+0MC9K7MYM9,46,65029,187503,612,90,7,24.49,60,0.47,PhD,Self-employed,Married,Yes,No,Education,Yes,0
+IC5QJ481L0,63,140282,132734,580,60,6,7.11,72,0.5,PhD,Unemployed,Widowed,No,Yes,Home Improvement,Yes,1
+TNFSYOJ790,70,61693,164674,330,346,9,12.8,12,0.64,High School,Part-time,Married,No,Yes,Education,No,1
+BT7H0BQMNC,23,126739,56399,636,162,7,13.74,24,0.16,PhD,Unemployed,Widowed,No,No,Home Improvement,Yes,1
+HBQIQIS17V,52,65961,159544,482,350,7,20.89,48,0.3,PhD,Full-time,Married,No,No,Other,Yes,0
+LLOYNE8DNM,77,136678,185302,322,142,2,5.18,48,0.94,High School,Self-employed,Divorced,Yes,No,Auto,No,0
+XROYRP828F,58,84532,12099,843,252,9,12.43,24,0.92,High School,Unemployed,Single,Yes,No,Business,Yes,0
+EXLMH933SZ,54,91994,161503,745,268,9,16.83,48,0.8,PhD,Self-employed,Divorced,No,Yes,Business,Yes,0
+XUKX07OPYM,41,66133,61492,373,290,6,7.73,48,0.12,Master's,Part-time,Married,Yes,No,Home Improvement,No,1
+PFLDPD2SRY,46,71268,101722,309,186,3,16.8,60,0.39,High School,Full-time,Single,No,Yes,Home Improvement,Yes,0
+JUXZTFLCRM,66,41653,183756,783,303,1,23.32,60,0.67,High School,Self-employed,Single,Yes,No,Education,Yes,0
+4QFOBGK5XD,63,131829,35111,755,290,4,24.95,24,0.35,PhD,Part-time,Single,No,Yes,Business,Yes,0
+6GRQ5SPAUT,70,138377,68936,459,85,3,3.71,12,0.92,PhD,Unemployed,Widowed,Yes,No,Education,Yes,1
+NXAYMMTU94,48,11622,158686,313,165,1,8.18,72,0.67,High School,Full-time,Divorced,No,Yes,Other,No,0
+Y7UP7PG7CG,52,58756,178063,477,113,3,9.83,72,0.16,PhD,Full-time,Widowed,No,Yes,Business,No,1
+5V10MKXB8P,77,50809,65920,711,355,4,11.78,48,0.92,High School,Unemployed,Single,Yes,No,Other,No,1
+YVCSFQ1F6J,50,26725,68530,352,182,8,8.33,12,0.96,Master's,Unemployed,Divorced,Yes,Yes,Auto,No,0
+7I9E9E9Q8K,69,61226,172296,707,206,9,7.48,24,0.17,Master's,Full-time,Divorced,Yes,Yes,Education,Yes,0
+5UST9ZXEF7,78,91182,12788,321,255,3,24.0,24,0.58,High School,Self-employed,Married,No,Yes,Home Improvement,No,0
+WEVTLI90SS,38,39402,33082,329,234,6,23.21,60,0.37,High School,Full-time,Widowed,Yes,Yes,Business,No,0
+UON7SEX450,49,14263,128287,559,354,5,4.03,48,0.45,Bachelor's,Unemployed,Widowed,No,No,Education,Yes,1
+9J4WWKXQLM,40,57924,94570,504,2,6,10.45,36,0.26,Bachelor's,Self-employed,Married,Yes,Yes,Home Improvement,Yes,1
+UXBFX43W2V,50,84182,106015,358,207,4,11.91,24,0.62,PhD,Part-time,Widowed,Yes,Yes,Auto,Yes,1
+10WOIMF9LD,20,45737,88588,770,196,6,8.26,48,0.96,PhD,Full-time,Single,No,No,Business,No,1
+0LIPU5AIZD,35,111332,152603,765,340,7,16.84,12,0.55,High School,Unemployed,Single,No,No,Other,Yes,1
+6K1BMP6IUD,42,99563,93340,311,124,9,17.09,60,0.17,High School,Part-time,Widowed,Yes,No,Auto,Yes,1
+WQRYNZA9JM,59,138575,99439,589,137,7,21.71,72,0.66,Bachelor's,Full-time,Married,No,Yes,Home Improvement,Yes,1
+56KJTW4NMR,48,111371,180929,653,338,6,19.3,12,0.41,Bachelor's,Full-time,Divorced,No,Yes,Business,No,1
+O2SEXOFXDI,71,48709,146214,374,24,1,14.94,24,0.87,High School,Self-employed,Widowed,Yes,No,Business,No,1
+KMRQMT1L3F,75,31172,120053,740,67,2,17.38,24,0.49,Master's,Unemployed,Divorced,No,Yes,Auto,No,1
+Y15ERF9MMX,20,21555,53355,540,60,1,9.03,12,0.27,Master's,Part-time,Married,Yes,No,Business,No,0
+FD9ZV6VS6I,57,63276,145938,453,28,9,16.05,24,0.27,PhD,Full-time,Divorced,Yes,Yes,Home Improvement,No,0
+KM679ECW7B,63,67492,130426,395,18,9,13.76,48,0.79,High School,Self-employed,Married,No,No,Auto,No,0
+EYPXUJ3CKK,41,99599,69027,593,170,7,5.93,24,0.34,High School,Part-time,Married,Yes,Yes,Other,No,1
+XUINLZ1OPX,67,21046,193978,508,73,2,8.34,60,0.79,PhD,Part-time,Single,No,No,Auto,Yes,0
+RRQFDFZ7MK,49,126021,164210,642,60,6,9.42,48,0.29,Bachelor's,Full-time,Single,Yes,Yes,Auto,Yes,1
+R18JWVM7ZD,64,14853,97601,387,152,4,23.33,36,0.39,Bachelor's,Part-time,Married,No,No,Other,Yes,1
+A7TEW1NCY2,39,130900,34956,689,275,1,8.07,24,0.52,Master's,Full-time,Widowed,No,Yes,Home Improvement,No,0
+MDDM8PW4LJ,40,69129,109797,624,47,1,9.36,24,0.95,High School,Self-employed,Single,No,Yes,Education,No,1
+LNCR7KI9WQ,19,124130,129917,456,210,5,11.13,60,0.94,Bachelor's,Self-employed,Married,No,Yes,Education,Yes,0
+9NVIDYDZG3,44,131789,131303,436,342,2,17.6,60,0.29,Master's,Part-time,Divorced,No,No,Other,Yes,1
+SAWHIEOCHP,59,48890,141511,727,138,4,5.6,72,0.42,Master's,Full-time,Divorced,Yes,Yes,Home Improvement,No,1
+I0W8CZB29N,19,76017,183313,751,109,1,23.99,12,0.23,Master's,Unemployed,Widowed,Yes,Yes,Business,No,0
+P8XOFFL1TW,43,142596,47533,440,182,4,22.04,12,0.56,Bachelor's,Self-employed,Divorced,No,Yes,Other,No,0
+EX1MZZNDE8,34,110424,164342,382,27,6,15.7,12,0.51,Bachelor's,Full-time,Divorced,Yes,No,Education,No,0
+3BEPZPG83W,57,25048,83815,476,196,4,17.83,60,0.91,High School,Full-time,Married,No,Yes,Home Improvement,No,0
+8CBHVPC69Q,50,64912,44279,497,190,1,3.37,12,0.94,High School,Full-time,Divorced,No,No,Auto,No,0
+VBB1S36ASN,26,44008,114787,720,314,7,10.46,12,0.45,Master's,Part-time,Divorced,Yes,Yes,Home Improvement,No,0
+IX8PY6E5Z9,60,141132,159960,700,50,2,20.5,36,0.54,Master's,Unemployed,Divorced,Yes,No,Home Improvement,No,1
+QEM5I3EZ4Y,71,93559,153702,770,148,9,4.7,12,0.91,Bachelor's,Part-time,Divorced,No,No,Education,Yes,1
+JA9AAA4XEE,65,65337,66063,517,267,3,9.21,24,0.83,Bachelor's,Self-employed,Married,No,Yes,Education,No,1
+7C8ISFKY4S,56,120616,132896,474,49,8,15.88,72,0.1,High School,Part-time,Divorced,No,No,Business,No,1
+QFEH5NS0UZ,46,23350,171216,322,245,8,8.64,60,0.39,High School,Full-time,Widowed,No,No,Business,No,0
+I5H4G48Y9B,59,34354,188233,534,112,3,23.55,48,0.48,PhD,Part-time,Single,No,Yes,Other,Yes,1
+8SVHJRYEIC,72,55186,187051,312,169,4,5.88,72,0.31,High School,Full-time,Widowed,No,No,Auto,Yes,1
+EX42AHIDVK,43,38145,102661,400,165,2,20.54,36,0.28,Bachelor's,Unemployed,Single,Yes,No,Business,No,0
+5A2K8JDQXN,52,96123,143051,835,13,4,14.17,60,0.13,Master's,Part-time,Widowed,No,No,Education,Yes,1
+ZHO4KFAB8C,67,30581,162261,822,202,9,19.51,60,0.68,PhD,Part-time,Single,No,No,Home Improvement,Yes,0
+YJLNR43YSJ,42,98929,178672,751,287,2,9.84,24,0.34,High School,Part-time,Single,Yes,Yes,Other,Yes,0
+YHKNVV6ZFD,41,33051,195632,730,188,3,14.32,72,0.15,High School,Full-time,Single,No,No,Business,No,0
+03VMH43MWY,30,61474,128257,832,154,4,21.85,72,0.31,Bachelor's,Full-time,Single,No,No,Home Improvement,No,1
+K99O5SURWF,77,101748,197630,592,54,5,13.27,12,0.82,PhD,Part-time,Married,Yes,Yes,Home Improvement,No,0
+TH43EUWYVG,75,135995,91205,400,181,1,10.91,24,0.87,High School,Part-time,Widowed,No,Yes,Business,No,1
+BADIOCT9RI,24,79626,11910,801,209,7,14.8,12,0.53,Master's,Unemployed,Single,Yes,No,Auto,No,1
+IAWKNPHOU1,74,16960,193785,603,74,7,18.78,12,0.47,Bachelor's,Unemployed,Widowed,No,Yes,Auto,No,1
+E0FJGMI8RS,53,46408,51857,839,276,9,12.76,60,0.98,PhD,Self-employed,Divorced,Yes,Yes,Other,No,0
+GUA6LYLD45,62,104006,39964,654,132,4,23.66,72,0.28,High School,Unemployed,Single,Yes,Yes,Auto,Yes,0
+51DEJIMOB2,37,67134,161299,602,342,6,9.49,12,0.29,High School,Unemployed,Widowed,Yes,Yes,Other,No,0
+UGJTMD5FE1,18,142413,142050,795,58,2,13.46,36,0.36,PhD,Unemployed,Married,No,Yes,Education,No,1
+HNJUXF0JDX,25,100327,22153,526,344,4,19.65,36,0.26,Bachelor's,Full-time,Widowed,No,Yes,Business,No,1
+0LV70JXFOC,63,141410,64765,535,181,2,18.16,72,0.44,PhD,Unemployed,Single,Yes,Yes,Home Improvement,No,0
+L1EI20DTRW,33,21344,113212,754,338,5,22.0,36,0.92,PhD,Unemployed,Divorced,Yes,Yes,Other,No,1
+Y03WJ0SUOX,31,142822,44071,312,320,7,24.93,60,0.65,Bachelor's,Part-time,Widowed,No,Yes,Auto,No,0
+9THD1L3616,29,77957,117990,509,63,1,12.39,24,0.47,High School,Full-time,Divorced,No,No,Other,No,0
+UFQQ1KSMZE,68,115423,74519,696,326,7,5.45,48,0.94,Master's,Self-employed,Married,No,No,Other,No,1
+C2SFPL5GN5,40,68053,14503,399,259,6,3.67,12,0.14,Bachelor's,Self-employed,Widowed,No,No,Auto,Yes,1
+8AHPWGU7AZ,32,87454,196775,330,192,6,18.99,48,0.29,Master's,Unemployed,Widowed,No,No,Auto,Yes,0
+OLZVVXGM0L,45,100600,100457,827,142,8,22.23,24,0.61,High School,Self-employed,Married,Yes,No,Business,No,1
+0BZXXNT61O,51,132732,193938,628,103,8,7.86,24,0.65,PhD,Self-employed,Married,No,Yes,Home Improvement,No,0
+XWUWC3ZYO2,19,47641,152977,465,213,6,6.49,60,0.14,Master's,Self-employed,Married,Yes,Yes,Business,Yes,0
+EOZVMZ594Q,49,39711,50838,758,241,3,4.37,36,0.46,High School,Unemployed,Single,No,No,Business,No,1
+7HUVH2WMNZ,40,80342,130200,399,208,5,21.1,36,0.68,High School,Self-employed,Single,Yes,No,Auto,No,0
+5UTX37IN0H,39,116896,194351,472,92,2,9.85,24,0.73,PhD,Unemployed,Widowed,Yes,Yes,Auto,Yes,1
+4K3Q1CZLM9,68,97833,94489,461,141,5,11.84,60,0.67,PhD,Part-time,Widowed,No,No,Home Improvement,No,0
+VRLQMG2TNT,42,66276,31806,562,111,9,14.06,60,0.39,High School,Part-time,Widowed,Yes,Yes,Other,No,1
+KCB0YZMIO6,75,29541,181072,573,58,1,21.47,72,0.18,High School,Self-employed,Divorced,Yes,No,Business,No,1
+386CY89BFG,79,104457,158240,302,42,5,17.32,12,0.48,Master's,Part-time,Married,Yes,Yes,Home Improvement,Yes,0
+45WSH1O9FU,78,54813,75119,327,206,6,16.53,36,0.22,High School,Unemployed,Widowed,Yes,No,Business,Yes,1
+ST5IZ25DKV,39,149892,43714,625,267,7,6.86,24,0.95,High School,Part-time,Married,No,Yes,Other,No,1
+WRXW7V5EGI,75,34070,190165,448,295,9,14.29,72,0.53,Master's,Self-employed,Single,Yes,No,Business,Yes,0
+E6893HZAPD,75,90559,60419,839,117,6,18.74,48,0.39,Bachelor's,Unemployed,Married,No,No,Education,Yes,1
+HMAHEDKGG3,39,51786,185217,787,19,5,24.41,36,0.79,Master's,Full-time,Divorced,Yes,Yes,Home Improvement,Yes,0
+5NC4W49W53,66,147809,110432,737,221,7,7.43,12,0.55,Master's,Unemployed,Divorced,No,Yes,Auto,No,1
+QATXDES7XX,69,46062,97949,364,165,1,3.21,60,0.38,PhD,Part-time,Married,No,No,Business,Yes,0
+KEF4E94OG5,59,61571,138533,655,130,5,4.66,24,0.83,Master's,Full-time,Divorced,No,No,Home Improvement,Yes,0
+85UKM0ZMYD,23,35510,150363,832,155,2,11.27,36,0.88,High School,Unemployed,Divorced,Yes,Yes,Home Improvement,Yes,0
+PLANUZY67A,32,29426,182876,551,183,4,21.05,48,0.71,High School,Full-time,Single,No,Yes,Business,No,0
+I0FUY2OHBH,71,47265,81971,534,89,7,3.16,12,0.14,High School,Full-time,Widowed,No,Yes,Auto,Yes,1
+615IE55RDG,60,76150,98471,526,93,5,13.05,12,0.61,Bachelor's,Full-time,Divorced,Yes,No,Auto,Yes,0
+CSRWIWXZ7L,77,97312,69946,824,12,6,10.24,72,0.79,High School,Unemployed,Widowed,No,No,Business,No,1
+KMK5UQ0NV9,54,99613,103989,612,321,2,4.15,36,0.22,Bachelor's,Part-time,Married,Yes,Yes,Home Improvement,Yes,0
+ZGMLB5FREL,50,84910,89080,348,292,3,12.91,48,0.31,High School,Unemployed,Married,Yes,No,Auto,Yes,1
+RQM8E5SR7H,25,62375,197404,417,229,7,8.6,12,0.89,Master's,Part-time,Divorced,No,No,Business,Yes,0
+2HBTF247QU,70,131826,82794,353,321,2,10.74,24,0.12,PhD,Unemployed,Married,Yes,Yes,Business,No,1
+UZL64RWAAR,77,45435,35841,343,291,6,18.52,12,0.78,High School,Unemployed,Single,Yes,No,Business,No,1
+1HU17860U0,61,106443,129447,352,25,5,14.47,48,0.53,Bachelor's,Unemployed,Divorced,Yes,Yes,Home Improvement,Yes,0
+TM4BU21P6S,61,144055,125029,824,74,1,5.74,60,0.5,Bachelor's,Part-time,Divorced,No,Yes,Auto,Yes,0
+0P1YUQZG70,22,33510,184830,401,298,4,24.15,60,0.11,PhD,Unemployed,Divorced,Yes,No,Home Improvement,Yes,0
+GHQTNUVF0W,56,104071,81272,697,149,2,16.99,72,0.84,High School,Full-time,Married,Yes,No,Education,Yes,1
+EKGK1P7BNB,21,16640,42643,437,147,4,19.85,36,0.42,Master's,Unemployed,Married,Yes,Yes,Auto,Yes,1
+FX5XZD8KYC,23,54547,186480,686,7,1,4.74,48,0.59,High School,Full-time,Divorced,No,Yes,Home Improvement,Yes,1
+E16ESDHOG1,62,64620,48950,410,28,2,4.04,72,0.71,High School,Self-employed,Widowed,Yes,Yes,Auto,No,1
+CDF9Z7VUC7,49,125608,192921,316,295,8,3.43,12,0.73,PhD,Self-employed,Married,No,No,Education,Yes,0
+ZZA2HAX5NC,69,17564,105500,481,208,6,7.15,12,0.96,High School,Part-time,Married,Yes,Yes,Other,Yes,0
+0VQOX7VMI1,47,123824,164116,835,127,2,12.12,60,0.58,Master's,Part-time,Divorced,No,Yes,Business,Yes,0
+9DWV8U7ND0,64,89273,130588,840,339,6,23.59,72,0.46,Bachelor's,Self-employed,Widowed,No,Yes,Home Improvement,No,0
+MZ97EY3BZR,52,84859,20997,470,115,9,13.06,60,0.96,PhD,Unemployed,Divorced,No,Yes,Education,Yes,1
+4ZFTERVWOG,72,120017,84751,708,143,7,9.39,24,0.68,Master's,Unemployed,Married,Yes,No,Education,No,1
+VS9G3IRPS1,57,133618,103605,677,317,9,15.36,60,0.37,Bachelor's,Unemployed,Divorced,Yes,No,Auto,Yes,0
+HHGTO0M7MA,69,135341,159983,487,234,5,5.46,24,0.21,PhD,Self-employed,Divorced,Yes,Yes,Auto,Yes,1
+USFIKG2O2I,33,39430,60533,529,6,7,16.41,12,0.86,PhD,Full-time,Divorced,No,No,Business,Yes,0
+00XFB148AO,30,37788,87566,418,44,7,15.51,72,0.43,Bachelor's,Part-time,Widowed,Yes,No,Auto,Yes,1
+D9RAY6NGEQ,67,79346,150643,455,238,3,20.42,24,0.69,Bachelor's,Full-time,Divorced,Yes,No,Home Improvement,Yes,1
+N5B0X4XW9B,77,106122,113255,764,154,7,24.71,72,0.52,Master's,Self-employed,Married,No,Yes,Home Improvement,Yes,1
+83O43XDXFL,59,49974,194013,403,180,1,8.52,72,0.28,High School,Full-time,Divorced,Yes,No,Home Improvement,No,1
+S2E8AOPM67,47,117309,63005,801,214,9,14.21,24,0.64,High School,Unemployed,Widowed,Yes,No,Other,Yes,1
+OH3QWO43Y8,36,26371,194784,474,87,6,23.0,36,0.15,High School,Unemployed,Single,No,Yes,Home Improvement,Yes,1
+Y87KHFFBOM,34,55084,48541,720,255,5,20.27,60,0.47,High School,Full-time,Widowed,No,Yes,Auto,Yes,0
+WZ6OOFSA80,73,71916,28387,433,72,7,13.72,24,0.59,High School,Self-employed,Divorced,Yes,No,Auto,No,1
+8GK04MQ7KU,36,83972,98980,690,178,5,23.8,12,0.49,Master's,Full-time,Single,No,No,Home Improvement,Yes,0
+2SOA8J2AMI,45,22984,184980,800,211,5,4.26,72,0.77,PhD,Unemployed,Divorced,Yes,Yes,Education,No,0
+8HQI1OGUS8,75,43039,90457,332,292,7,23.48,48,0.85,Master's,Unemployed,Widowed,Yes,Yes,Education,Yes,0
+K0MB8XA9PW,72,95431,149129,354,233,7,4.11,24,0.79,Master's,Self-employed,Single,Yes,Yes,Education,Yes,0
+677WMOIMNZ,43,93691,69028,818,238,3,15.04,60,0.13,Master's,Full-time,Single,Yes,Yes,Business,No,0
+63U8659DLA,54,68606,124246,311,222,3,22.59,72,0.27,PhD,Unemployed,Divorced,Yes,No,Other,No,0
+GGI3XEWSX5,43,112665,60731,827,118,3,8.78,36,0.58,Master's,Unemployed,Divorced,No,Yes,Home Improvement,Yes,1
+881VHI3U7U,70,115373,160930,672,312,6,13.39,12,0.94,Master's,Full-time,Widowed,No,No,Business,No,1
+005K5CPXLH,79,34574,184761,783,263,6,10.14,36,0.85,PhD,Full-time,Divorced,Yes,No,Education,No,1
+QN173JPE6N,40,144502,49638,527,206,3,23.95,48,0.86,Master's,Part-time,Single,No,No,Home Improvement,Yes,0
+QY3HPAIH98,26,42733,182558,606,94,3,21.12,24,0.37,High School,Self-employed,Married,No,Yes,Business,Yes,0
+VGACHRZUW3,29,12050,25567,756,221,8,18.6,72,0.49,Bachelor's,Self-employed,Married,Yes,Yes,Auto,Yes,0
+QPZ8EKZ558,70,119996,165811,459,275,8,15.93,24,0.52,Master's,Full-time,Widowed,No,No,Education,No,1
+VB57TW256T,18,43933,62804,630,230,7,21.05,60,0.24,Bachelor's,Self-employed,Divorced,No,No,Business,Yes,1
+5Q19QQZD6U,75,34951,113821,524,308,4,11.63,24,0.13,Master's,Unemployed,Widowed,Yes,No,Auto,Yes,1
+N2MTBT22KX,75,42413,8754,803,118,4,12.85,12,0.95,Master's,Full-time,Married,Yes,No,Education,No,0
+4667ZLX5QD,18,122573,32044,755,267,3,19.06,48,0.32,High School,Full-time,Married,Yes,No,Other,No,0
+TOQ6LXZ41L,64,145566,72260,344,272,5,10.87,36,0.32,PhD,Full-time,Divorced,Yes,Yes,Education,Yes,0
+JKP7LTWK1H,51,132744,71912,513,63,3,4.41,48,0.18,Bachelor's,Part-time,Single,Yes,Yes,Other,No,1
+RHU9U4BKZB,49,99431,13706,358,297,8,4.64,72,0.94,PhD,Self-employed,Divorced,Yes,Yes,Other,No,0
+37ELLMHHSI,79,53001,13894,494,349,7,5.54,24,0.62,High School,Part-time,Married,Yes,No,Other,No,0
+8RYIQX4WNJ,71,77364,154109,788,10,3,22.13,72,0.7,High School,Unemployed,Single,No,No,Home Improvement,Yes,0
+NBYYDIJEEA,65,134988,88986,456,97,9,13.39,36,0.92,Bachelor's,Self-employed,Widowed,Yes,Yes,Home Improvement,Yes,0
+9X9HT2L9OB,42,55028,86942,525,70,5,18.68,72,0.41,PhD,Part-time,Married,No,Yes,Other,Yes,1
+49IQ27BPLC,57,141878,187684,711,57,9,11.64,60,0.66,High School,Full-time,Widowed,No,No,Auto,No,1
+O0E6TMOPD4,62,134343,34725,504,289,7,8.69,48,0.13,Master's,Part-time,Single,Yes,Yes,Other,Yes,0
+BPGGBC32S1,70,138301,141998,378,250,7,10.64,36,0.27,Master's,Full-time,Widowed,No,Yes,Business,Yes,0
+I7EAGHSFFL,18,136295,109555,423,275,6,20.47,36,0.85,Master's,Part-time,Married,No,Yes,Other,No,1
+B7C058B5UM,33,44636,14496,770,49,2,16.75,36,0.79,PhD,Part-time,Divorced,No,No,Home Improvement,No,1
+PSM1WOSE76,78,34262,61447,517,357,9,23.63,12,0.42,Master's,Part-time,Widowed,Yes,No,Home Improvement,Yes,0
+UDMU3HL8DI,56,90435,106604,815,215,6,17.95,48,0.44,Master's,Full-time,Married,No,Yes,Business,No,1
+ZNDFEOGYDX,22,138583,165878,403,51,8,15.54,72,0.58,High School,Part-time,Married,No,No,Business,Yes,1
+W121M4TLJV,39,51844,93199,692,270,1,16.42,36,0.1,High School,Self-employed,Single,Yes,Yes,Education,Yes,0
+B2SDEXKRB3,46,74754,46321,733,83,5,23.73,48,0.32,Master's,Self-employed,Married,No,Yes,Auto,Yes,1
+Q9DU0PF70M,72,87129,158728,630,292,1,20.34,36,0.29,Master's,Self-employed,Divorced,No,No,Auto,No,1
+JJZTBHG4XP,20,50042,60147,442,125,8,3.53,60,0.33,High School,Full-time,Divorced,No,No,Auto,No,1
+HD9ZT0RGXY,29,71665,96396,839,295,8,14.75,60,0.83,Bachelor's,Full-time,Widowed,No,No,Home Improvement,Yes,1
+5YJMTN3RKG,43,126953,185738,577,71,1,18.14,60,0.35,PhD,Self-employed,Widowed,No,Yes,Auto,Yes,0
+PRSK17UV5N,33,128533,43787,532,295,9,19.47,24,0.27,PhD,Self-employed,Widowed,Yes,Yes,Education,Yes,1
+6AV7651DRW,68,83781,199018,828,235,2,7.69,36,0.55,High School,Self-employed,Widowed,No,Yes,Education,Yes,1
+BN787HAGMN,54,76262,26727,389,55,9,22.08,24,0.88,PhD,Unemployed,Divorced,Yes,No,Auto,No,0
+V8OER7JYT6,39,56600,100081,791,359,1,24.03,48,0.32,High School,Self-employed,Single,No,Yes,Business,Yes,1
+TSQPER8TYO,74,86898,127721,498,109,9,8.21,24,0.17,High School,Part-time,Widowed,Yes,Yes,Education,Yes,0
+GJD5M0VLOJ,46,40448,73056,661,191,4,22.42,48,0.42,High School,Unemployed,Single,Yes,Yes,Business,No,0
+HGFXRD9B4Q,31,36172,139153,740,92,9,5.13,48,0.77,High School,Unemployed,Married,Yes,Yes,Home Improvement,Yes,1
+NFCL8C19GT,45,17657,170268,325,349,7,4.23,48,0.6,Bachelor's,Full-time,Married,No,No,Education,Yes,1
+ZCVE1F94G7,22,122855,172807,324,55,6,5.84,72,0.84,Master's,Part-time,Widowed,No,No,Business,Yes,1
+P09SRT9NSJ,64,17906,85102,693,59,5,4.27,24,0.96,Master's,Full-time,Married,No,No,Auto,Yes,1
+YUWP04G5UB,66,71413,161570,806,137,9,21.59,72,0.81,Bachelor's,Full-time,Single,No,Yes,Home Improvement,Yes,1
+5INRY84KF4,47,64028,81865,600,38,2,4.3,36,0.64,PhD,Part-time,Single,No,Yes,Other,No,0
+805W2UJ1CM,63,17287,167728,638,27,2,8.98,24,0.54,PhD,Full-time,Married,Yes,Yes,Other,No,1
+W6SS1I4LA8,79,43660,72695,566,48,9,5.28,36,0.14,Master's,Part-time,Widowed,Yes,No,Auto,No,0
+26H4L2KG7I,69,70504,173972,760,124,3,9.5,36,0.99,PhD,Part-time,Single,Yes,No,Home Improvement,No,1
+E5BT7PFMI5,22,112979,122235,755,12,8,4.99,48,0.45,Master's,Full-time,Single,No,No,Home Improvement,Yes,0
+6LWBN2IA8F,29,44701,183773,659,35,9,17.7,24,0.24,Master's,Self-employed,Divorced,No,No,Home Improvement,No,1
+AAFME7Q4M6,33,93300,113777,367,100,8,5.93,36,0.7,Bachelor's,Full-time,Widowed,Yes,No,Home Improvement,No,1
+BZN9SCSAD5,43,93560,24033,711,281,4,21.74,60,0.36,PhD,Unemployed,Divorced,No,Yes,Other,No,1
+31KM2LVRC2,43,53642,146877,790,85,1,20.98,36,0.63,Bachelor's,Full-time,Married,No,No,Business,No,1
+F3P6NH2WWG,65,75160,171923,348,3,4,3.3,60,0.63,Master's,Part-time,Married,Yes,No,Home Improvement,No,1
+MPK7ATANZH,38,27602,31832,401,222,9,22.71,24,0.5,Master's,Unemployed,Divorced,Yes,No,Business,No,0
+A5N6MXWEJT,56,113320,199509,515,337,2,3.64,72,0.85,Master's,Part-time,Widowed,No,Yes,Home Improvement,No,1
+XRRRP8A6OO,53,98801,120725,737,165,3,8.27,24,0.34,High School,Self-employed,Single,No,No,Education,No,1
+UYAJ8NJ1PP,50,35931,150016,458,343,8,3.71,72,0.5,High School,Self-employed,Married,Yes,No,Education,Yes,1
+139NQNOJXF,79,104377,24873,788,277,6,10.39,72,0.58,High School,Unemployed,Widowed,No,No,Education,No,0
+5POGANLDPC,47,39192,45372,541,129,8,14.31,24,0.7,Bachelor's,Self-employed,Widowed,Yes,Yes,Home Improvement,Yes,1
+49TP8AMN84,54,56542,94464,304,30,7,20.53,36,0.81,Master's,Self-employed,Married,Yes,Yes,Business,No,0
+84Q6V0YLWO,40,137015,151451,660,10,5,10.44,12,0.46,PhD,Full-time,Married,Yes,No,Other,No,1
+ZOF0IWP7G7,75,52520,122322,758,301,9,18.52,36,0.68,Bachelor's,Full-time,Widowed,No,No,Auto,No,0
+G0LYY1P1N8,27,74772,172823,547,95,4,7.13,36,0.24,Bachelor's,Self-employed,Single,Yes,No,Other,Yes,1
+L9V9ICKZ6O,71,60106,105082,721,189,6,19.51,48,0.94,Bachelor's,Self-employed,Divorced,Yes,No,Home Improvement,Yes,1
+FQWS9O37CJ,22,91121,10110,314,191,2,8.19,48,0.44,PhD,Full-time,Married,No,Yes,Education,No,0
+RL5SCQI33T,53,35559,190413,421,265,2,6.16,36,0.76,Master's,Self-employed,Divorced,Yes,No,Education,Yes,1
+J45FTLQ863,51,115595,17087,576,127,2,7.08,60,0.12,High School,Self-employed,Widowed,No,Yes,Business,No,0
+85IGWTVOK1,69,43742,159834,752,237,7,7.01,72,0.28,Master's,Part-time,Divorced,No,No,Home Improvement,Yes,1
+UMMXR07O53,48,79669,87617,689,354,2,14.28,48,0.54,Master's,Self-employed,Single,No,Yes,Other,Yes,1
+OW3QH4J9CI,27,145044,105483,593,111,2,21.59,36,0.89,Bachelor's,Unemployed,Widowed,Yes,Yes,Home Improvement,Yes,0
+0ICLD11XVQ,75,80831,14596,745,315,9,4.75,12,0.57,Bachelor's,Part-time,Single,Yes,No,Home Improvement,No,1
+FJHCL4FNC2,36,122217,112539,509,342,7,18.55,60,0.94,Bachelor's,Unemployed,Widowed,No,Yes,Education,Yes,0
+YNWODMDLPT,75,51873,23313,601,144,3,17.4,24,0.54,High School,Self-employed,Single,No,No,Other,Yes,0
+9GIQL4B4XA,49,116532,118175,522,64,3,22.2,36,0.54,High School,Full-time,Widowed,No,Yes,Auto,No,1
+ZKYFGUU58T,18,136267,119914,302,246,7,8.37,36,0.21,High School,Part-time,Single,Yes,Yes,Education,Yes,1
+W6UN9AXMNN,73,144092,28705,817,222,5,12.9,72,0.82,Master's,Full-time,Widowed,No,No,Other,No,1
+PPQBMYR3U3,22,51755,78445,392,312,6,23.37,60,0.32,Bachelor's,Part-time,Single,No,No,Business,No,0
+VOBCJ2BFIQ,62,95956,108892,819,105,8,17.52,48,0.91,PhD,Full-time,Widowed,No,Yes,Education,Yes,0
+3326XKOEQD,21,96988,7023,727,180,9,11.55,48,0.92,Master's,Part-time,Single,Yes,Yes,Business,No,1
+XCRGDDQ4T6,33,55648,124654,792,183,1,5.89,48,0.95,High School,Part-time,Married,No,No,Education,Yes,0
+XQ3293OQX1,41,135991,195868,534,225,3,8.77,24,0.57,PhD,Unemployed,Divorced,Yes,No,Home Improvement,Yes,0
+GLGJXUI2PR,33,125005,85073,460,264,7,15.79,60,0.71,PhD,Full-time,Widowed,Yes,No,Other,No,0
+JWDJJZQM7F,72,12396,97197,630,277,6,18.8,60,0.8,Bachelor's,Unemployed,Single,No,Yes,Business,Yes,0
+MDSNWBGIFD,19,94082,69429,632,88,7,5.74,48,0.22,PhD,Unemployed,Married,No,No,Education,Yes,1
+Y3K4ERK1FU,66,138322,109195,349,175,8,16.19,48,0.64,High School,Full-time,Widowed,No,No,Business,No,1
+LTM6QA95IQ,45,142663,197699,822,17,6,15.11,72,0.13,Bachelor's,Part-time,Widowed,Yes,Yes,Education,No,1
+0BGSCTAT8D,49,21303,38848,791,105,3,14.31,12,0.55,PhD,Unemployed,Widowed,Yes,No,Education,Yes,0
+117ZN4LH2E,44,81719,173876,571,270,2,18.18,12,0.24,Bachelor's,Full-time,Divorced,Yes,No,Auto,No,0
+U9RIU3E5OY,37,109616,151451,551,318,7,21.42,36,0.26,PhD,Part-time,Single,No,No,Auto,No,0
+PA8BJ9YSGM,41,134165,195736,389,166,1,10.11,36,0.43,Master's,Unemployed,Single,Yes,No,Auto,No,0
+ZU1SIN55XL,29,96231,32766,745,12,3,22.56,60,0.49,Master's,Unemployed,Widowed,No,Yes,Business,No,1
+2XWHMQ6NAV,67,17314,73099,631,336,4,6.53,60,0.66,High School,Unemployed,Widowed,No,No,Home Improvement,Yes,0
+XTI53DWUCA,52,29623,172132,438,31,1,6.81,24,0.17,Master's,Part-time,Widowed,No,No,Education,Yes,0
+PBL4H7B4IT,77,115228,74122,656,39,5,8.87,24,0.55,Master's,Unemployed,Married,Yes,No,Other,No,1
+GN4WFZN39B,50,107624,152159,573,147,3,5.63,12,0.26,Master's,Part-time,Widowed,Yes,No,Auto,Yes,1
+J25PZQHA0S,50,121785,53868,318,217,2,8.07,36,0.62,PhD,Self-employed,Divorced,Yes,No,Business,No,1
+5V9ONRONNO,78,96206,124119,610,218,3,5.34,12,0.67,PhD,Unemployed,Single,No,No,Business,No,0
+EYNDKE5IBT,68,79274,159297,453,81,8,21.08,12,0.6,Bachelor's,Self-employed,Divorced,Yes,Yes,Business,Yes,0
+D844P646JY,60,143541,100286,689,332,6,6.06,36,0.76,PhD,Full-time,Widowed,Yes,Yes,Other,Yes,0
+Q6UF7CD378,54,63947,11643,559,207,7,19.44,24,0.4,Master's,Unemployed,Married,No,Yes,Other,Yes,0
+D96ND5C5E7,29,58874,41727,424,200,6,4.05,72,0.79,PhD,Full-time,Widowed,No,No,Auto,Yes,0
+W19220S7UZ,20,59708,147077,653,331,6,23.87,72,0.49,High School,Full-time,Widowed,Yes,No,Other,No,0
+EWB8ZDYXXK,18,84553,114079,572,37,3,18.65,72,0.54,Bachelor's,Full-time,Widowed,No,No,Auto,No,1
+PGKNJ3MKGG,50,78344,70697,544,210,8,3.15,36,0.68,Bachelor's,Self-employed,Widowed,Yes,Yes,Other,Yes,0
+90R9177CQW,57,59138,21029,749,326,7,19.8,48,0.12,PhD,Part-time,Widowed,No,No,Other,No,1
+52YILGBIAB,27,57638,150298,546,248,7,14.31,48,0.69,Master's,Self-employed,Single,No,Yes,Other,Yes,1
+XFTBROU982,60,88249,199718,819,226,6,20.15,48,0.66,Bachelor's,Self-employed,Divorced,Yes,No,Auto,Yes,1
+GID1YYII9V,61,115865,196675,440,47,5,14.49,60,0.38,High School,Full-time,Married,No,No,Education,Yes,0
+248KCJHTMR,46,12719,164803,661,17,8,17.1,24,0.18,High School,Unemployed,Widowed,No,Yes,Auto,No,0
+1F9XLK5B73,30,52534,114458,307,294,5,20.3,24,0.18,Bachelor's,Part-time,Married,No,Yes,Education,No,1
+QKW7CEU20D,29,102241,115384,777,195,9,11.91,60,0.93,Master's,Full-time,Single,Yes,Yes,Business,Yes,0
+6CG6UVL5JI,48,136209,73926,651,186,9,3.06,12,0.72,Master's,Part-time,Divorced,No,Yes,Business,Yes,0
+KEMT3OP77S,63,102124,142069,794,344,1,21.7,72,0.21,PhD,Self-employed,Widowed,No,Yes,Auto,Yes,1
+SXDT36V5TP,19,101659,60506,726,223,6,11.38,48,0.42,PhD,Part-time,Single,Yes,Yes,Education,Yes,0
+IEXZQGUKKP,78,85713,83229,338,317,7,13.91,72,0.63,Bachelor's,Part-time,Single,Yes,No,Education,No,0
+7K34OMD05T,68,85418,185887,486,336,3,3.17,48,0.85,PhD,Unemployed,Divorced,No,Yes,Education,No,0
+HTVM8D4W24,67,138232,47092,392,228,7,13.83,72,0.14,PhD,Full-time,Widowed,No,No,Business,Yes,0
+8AJJC622BQ,52,41575,67539,385,76,7,24.7,12,0.31,PhD,Part-time,Divorced,No,No,Auto,Yes,1
+GFAJK4S4HB,40,73852,157889,343,187,2,9.12,72,0.9,High School,Part-time,Divorced,Yes,No,Home Improvement,No,1
+PHYCJNFC1O,34,142079,173933,436,345,7,11.7,72,0.11,PhD,Self-employed,Married,No,No,Education,Yes,0
+9VZDV4IN7G,43,86242,18428,720,269,1,18.12,36,0.28,Bachelor's,Self-employed,Married,Yes,No,Education,No,0
+630914I6LT,25,39257,180006,373,94,5,20.93,72,0.96,Master's,Part-time,Divorced,Yes,Yes,Home Improvement,No,0
+0UL2N0M6C6,46,71246,146330,847,309,9,12.18,36,0.65,PhD,Full-time,Married,No,Yes,Auto,Yes,1
+61A89RX5Z4,43,11435,62775,811,131,7,9.81,24,0.34,Master's,Part-time,Single,No,Yes,Education,No,0
+TFHSK6EXIT,27,101357,10469,455,38,7,23.63,60,0.16,PhD,Part-time,Divorced,Yes,No,Auto,No,0
+CX42R72I2A,43,146156,33854,554,71,2,17.9,72,0.13,Bachelor's,Unemployed,Widowed,No,Yes,Education,No,1
+L39PCTUZR3,79,93807,142328,470,280,8,5.62,24,0.32,High School,Full-time,Widowed,No,No,Other,No,0
+E94WYESY9I,51,125953,81256,469,332,3,4.52,36,0.89,Bachelor's,Unemployed,Single,Yes,No,Education,Yes,1
+CEECOUBT3O,68,148563,170009,621,159,8,13.64,72,0.47,High School,Full-time,Widowed,No,No,Other,No,0
+LQRVDMHI9T,58,133797,104134,755,186,3,7.84,72,0.75,PhD,Full-time,Widowed,Yes,No,Auto,No,1
+6ZO0M8O10P,24,73888,137723,454,190,7,8.59,12,0.93,PhD,Full-time,Divorced,No,Yes,Education,No,0
+H3MKJH5LAF,21,83609,186360,648,119,2,22.31,24,0.47,High School,Unemployed,Single,Yes,Yes,Business,Yes,0
+WQGO54UVTJ,75,19077,89730,750,219,4,4.97,48,0.27,Bachelor's,Unemployed,Divorced,Yes,Yes,Business,Yes,1
+V1QJ3K7OS0,70,30953,161123,472,52,6,18.74,48,0.57,Bachelor's,Unemployed,Single,No,Yes,Home Improvement,Yes,1
+MA8INJW7PM,67,124682,32386,309,221,9,8.97,12,0.92,High School,Self-employed,Divorced,Yes,Yes,Business,No,1
+3682YTFGZ2,62,77889,152256,564,130,5,19.73,36,0.82,PhD,Unemployed,Divorced,Yes,No,Other,Yes,1
+QQTAI3GN4N,28,125374,38787,737,236,9,18.89,48,0.16,High School,Self-employed,Married,No,Yes,Business,Yes,1
+0QLJYYGDE3,46,34860,26621,546,245,5,3.16,48,0.72,PhD,Self-employed,Widowed,No,No,Business,Yes,0
+5GHGUWUGOR,73,87475,82984,845,225,8,14.2,60,0.61,High School,Self-employed,Single,No,No,Business,No,1
+2NPUYICZMW,53,97266,195864,798,207,1,6.07,24,0.92,PhD,Part-time,Widowed,Yes,No,Education,Yes,1
+OJFF0TVCWG,42,110732,181325,428,95,7,22.06,36,0.21,High School,Part-time,Married,Yes,Yes,Home Improvement,Yes,1
+3RTIYL2A4G,38,37083,39051,626,199,4,22.17,72,0.58,Master's,Part-time,Single,Yes,No,Auto,Yes,1
+Z5RSNGRQUI,78,67372,54811,703,246,5,12.2,24,0.89,PhD,Self-employed,Married,No,No,Home Improvement,No,0
+0S7JFBZ5Q7,74,133786,35447,658,71,6,12.78,36,0.47,Bachelor's,Self-employed,Widowed,Yes,Yes,Other,No,0
+SKZZ9S7J10,53,17813,133046,316,317,5,9.67,48,0.53,High School,Full-time,Divorced,Yes,No,Education,Yes,0
+TTJ6UGPEMA,27,41598,166326,573,184,1,18.77,60,0.16,Bachelor's,Self-employed,Married,No,No,Education,Yes,0
+6ILLX11W8J,54,103106,89045,415,5,9,10.89,24,0.35,High School,Part-time,Married,Yes,No,Business,Yes,0
+WZ4TE9EXN0,26,37082,121859,390,205,2,8.89,48,0.39,Bachelor's,Self-employed,Divorced,No,Yes,Business,No,1
+16VZEF6DKC,41,39241,193490,381,31,9,12.51,36,0.95,Bachelor's,Self-employed,Widowed,No,No,Other,No,0
+YHM16Z1N0N,52,21745,150544,623,98,2,5.01,24,0.35,High School,Full-time,Married,No,No,Education,Yes,0
+2852SU8FBJ,66,36029,8471,413,255,9,19.43,72,0.51,High School,Self-employed,Widowed,Yes,Yes,Auto,No,1
+23FAA5WZKO,52,133395,125312,357,186,6,3.28,24,0.7,Bachelor's,Unemployed,Divorced,Yes,Yes,Home Improvement,Yes,1
+CU9VK654QS,65,99186,144401,453,75,9,17.18,48,0.25,Bachelor's,Full-time,Single,Yes,No,Education,No,0
+BRBMTGXZ21,53,147612,170937,703,176,6,7.02,24,0.54,Bachelor's,Self-employed,Married,No,Yes,Auto,Yes,0
+X6YW17AHDJ,35,107768,51850,565,314,6,8.11,72,0.76,PhD,Self-employed,Widowed,No,Yes,Auto,No,1
+JQQ3Q2E4BL,66,51846,59220,614,286,2,16.98,60,0.88,PhD,Full-time,Divorced,No,Yes,Home Improvement,Yes,0
+BV4OLG3XN1,56,85932,98808,340,348,8,24.84,60,0.66,Master's,Self-employed,Divorced,Yes,Yes,Auto,No,1
+TINYSAQUTV,49,33411,142469,404,254,3,20.11,48,0.7,PhD,Part-time,Married,Yes,Yes,Other,Yes,1
+BEGSU52J02,41,88797,171597,492,324,7,7.97,36,0.21,PhD,Unemployed,Single,Yes,Yes,Auto,Yes,0
+F5QD3H9TCY,40,62307,58072,700,189,5,6.87,48,0.95,High School,Unemployed,Married,Yes,Yes,Other,Yes,0
+E4S74NM5DJ,79,144165,88820,577,307,3,22.06,60,0.22,Master's,Part-time,Widowed,Yes,No,Auto,Yes,0
+DO679OBXG4,49,32042,28284,653,344,1,12.77,12,0.8,Master's,Self-employed,Divorced,No,Yes,Business,No,1
+A667UVOH4G,54,62930,197402,555,126,8,6.02,12,0.34,PhD,Self-employed,Single,Yes,Yes,Auto,Yes,1
+W5IUQ0D1QR,29,107883,88369,398,286,3,21.97,24,0.94,High School,Unemployed,Widowed,No,Yes,Other,No,0
+SRRA8PZZLD,66,43756,30122,581,253,2,20.95,72,0.75,High School,Self-employed,Married,No,No,Auto,No,0
+8P9NXDGF6Z,72,63268,135349,702,212,1,24.65,24,0.78,Master's,Unemployed,Divorced,Yes,Yes,Auto,Yes,0
+Q3F1JZWSK4,30,58901,75553,408,249,4,23.01,12,0.3,High School,Unemployed,Married,No,Yes,Auto,Yes,1
+IT02R548ZN,40,109986,99788,498,83,8,21.74,60,0.5,Bachelor's,Part-time,Single,Yes,No,Other,Yes,1
+FBNI369R4T,42,138386,67812,602,12,3,4.16,24,0.66,PhD,Unemployed,Single,Yes,Yes,Auto,Yes,1
+2D4UOCNBLR,52,15626,12999,626,44,1,5.3,48,0.79,Bachelor's,Self-employed,Single,No,No,Home Improvement,No,0
+GICU36CQTN,58,148496,27436,453,126,4,15.52,72,0.19,Master's,Self-employed,Single,Yes,No,Home Improvement,No,1
+XHCPGLR8GB,47,22857,47963,704,113,9,14.69,48,0.97,Master's,Full-time,Single,Yes,Yes,Other,No,1
+9WNMB74SH4,34,143052,138168,761,275,1,13.08,72,0.9,High School,Self-employed,Married,No,No,Business,No,0
+HWXGW3M4DH,66,36431,161351,431,204,2,11.73,60,0.34,High School,Full-time,Single,No,Yes,Home Improvement,Yes,1
+EH2NJQ19XR,79,94976,113899,383,336,9,12.49,24,0.84,Master's,Unemployed,Single,No,Yes,Education,No,0
+HPO7GLTHZX,37,92711,31201,698,272,2,15.52,72,0.57,Master's,Self-employed,Divorced,No,No,Home Improvement,Yes,1
+JSY40XQIBH,65,36385,155787,408,57,3,3.05,48,0.52,Bachelor's,Part-time,Single,No,No,Education,Yes,0
+7LZB44KHFM,42,28639,165381,520,327,7,8.74,24,0.38,Bachelor's,Part-time,Divorced,No,Yes,Other,No,0
+FZWWER2YNU,39,95530,151150,667,218,3,14.4,24,0.62,High School,Part-time,Divorced,Yes,Yes,Business,No,1
+NY5E4VDKE9,30,31563,192686,446,108,9,18.89,48,0.76,Bachelor's,Unemployed,Divorced,Yes,No,Education,No,0
+G50IPM6ZSX,76,125672,10105,411,278,6,6.83,12,0.47,High School,Unemployed,Married,Yes,Yes,Education,No,1
+M0UVE2DBQ6,36,146848,122666,793,173,3,15.03,72,0.67,High School,Full-time,Married,No,Yes,Home Improvement,No,0
+7PF4DJ7KQN,66,149783,99848,804,327,9,18.72,48,0.73,PhD,Part-time,Widowed,Yes,Yes,Education,No,0
+W5BQJWI9Z6,53,92970,7839,774,263,1,12.78,60,0.74,High School,Full-time,Widowed,No,No,Other,Yes,0
+IIC2VR0OSN,29,95553,73920,570,314,3,3.6,36,0.15,Bachelor's,Full-time,Divorced,Yes,Yes,Other,Yes,1
+U935GAPVFY,78,92879,48619,720,110,1,12.88,48,0.87,Master's,Self-employed,Married,No,Yes,Other,Yes,0
+GTW87PHBVV,58,146727,47821,666,186,2,9.52,24,0.51,Master's,Self-employed,Single,Yes,Yes,Home Improvement,No,0
+MXN8PN2Q2T,36,54859,130736,579,268,8,23.45,24,0.34,Bachelor's,Part-time,Widowed,No,No,Business,Yes,1
+8J6A6UOG7O,29,62098,149565,582,228,7,5.74,48,0.32,Master's,Unemployed,Married,No,No,Home Improvement,Yes,0
+7S81AAVVEC,26,132413,22069,339,155,2,17.35,36,0.53,High School,Self-employed,Single,No,No,Other,Yes,0
+DPFFZ7L42K,24,10526,12531,488,188,2,4.16,48,0.9,Master's,Unemployed,Single,No,Yes,Home Improvement,Yes,0
+GENBMBWUCP,45,78760,173123,463,271,9,12.82,36,0.44,Bachelor's,Full-time,Married,Yes,No,Other,Yes,0
+F6JTCPWDVO,31,57837,143808,835,1,6,15.19,36,0.77,Master's,Full-time,Widowed,Yes,Yes,Auto,Yes,1
+QB0IBAYQIL,48,21536,143782,835,245,5,9.56,60,0.19,High School,Full-time,Married,No,No,Auto,No,0
+SWTX05LV71,69,38541,72155,303,209,6,13.01,72,0.53,High School,Full-time,Widowed,No,Yes,Education,No,0
+LSHDRRX61Z,36,89083,150047,589,285,9,6.6,24,0.99,Bachelor's,Part-time,Divorced,No,No,Business,No,1
+S5MELMJJLG,75,44531,67424,732,358,7,9.69,24,0.79,Bachelor's,Full-time,Married,Yes,Yes,Auto,Yes,0
+XJG8TJG6J0,64,18712,50603,770,12,9,16.66,36,0.29,Bachelor's,Self-employed,Married,No,Yes,Other,No,0
+LXYLKBKL60,33,114101,159324,480,95,4,9.64,24,0.55,PhD,Full-time,Widowed,No,No,Home Improvement,No,1
+BZC6PE7L7N,70,75455,137503,547,220,2,22.79,12,0.31,PhD,Unemployed,Widowed,Yes,Yes,Home Improvement,Yes,1
+GJQ08C6IOV,22,84744,173553,578,237,8,16.82,36,0.47,High School,Self-employed,Married,No,No,Education,No,1
+Q3BW6C79CT,52,139749,97573,553,93,4,12.65,24,0.8,PhD,Unemployed,Single,No,No,Home Improvement,Yes,1
+JH8J187BEJ,29,15109,145629,480,337,9,3.85,12,0.79,PhD,Unemployed,Single,Yes,Yes,Auto,No,0
+M9NZ0LLDSD,42,59268,108302,808,268,4,13.99,60,0.31,Master's,Part-time,Single,No,Yes,Home Improvement,Yes,1
+R9FREJF4V0,69,64615,136234,625,170,8,19.83,24,0.93,PhD,Part-time,Divorced,No,No,Auto,Yes,0
+S4VEMP5WDC,76,92503,170814,656,93,9,8.84,12,0.63,Master's,Unemployed,Divorced,Yes,No,Auto,No,1
+9V3VO8YS1J,38,95708,24675,690,148,9,20.75,48,0.44,Bachelor's,Unemployed,Widowed,No,No,Business,Yes,0
+P8KXZHGTGC,53,112471,78997,384,111,4,8.54,72,0.55,Master's,Full-time,Divorced,Yes,Yes,Education,No,1
+F9C9RGK751,70,93309,153087,616,54,1,21.12,48,0.64,Master's,Self-employed,Single,No,No,Other,Yes,1
+6M457IL2AW,40,136446,186129,511,336,3,4.88,12,0.6,Bachelor's,Full-time,Married,No,Yes,Auto,No,0
+595W2T4U5E,33,116661,168663,814,115,9,22.06,36,0.54,Bachelor's,Part-time,Divorced,No,Yes,Education,No,1
+NRJVHD0RH1,74,16154,145905,683,142,4,13.98,36,0.55,High School,Part-time,Divorced,No,No,Other,Yes,1
+4UL0YX2RSP,56,74288,12896,641,200,5,9.52,24,0.26,High School,Full-time,Single,No,No,Home Improvement,No,1
+3XX5O3GRTS,62,61195,169044,337,179,7,8.83,48,0.83,High School,Self-employed,Divorced,Yes,Yes,Education,No,0
+CO7KN4KYFT,70,30581,54733,810,201,5,12.5,36,0.59,High School,Unemployed,Widowed,No,Yes,Education,No,1
+KTPI7W8GI0,59,40087,46800,719,52,4,24.98,36,0.22,Master's,Full-time,Married,No,Yes,Education,Yes,1
+QAMO2A3YER,75,79298,101044,468,179,2,7.85,48,0.79,Master's,Part-time,Single,Yes,Yes,Home Improvement,Yes,0
+S60DQKK7H8,56,56167,10347,642,312,2,5.27,60,0.94,High School,Self-employed,Widowed,Yes,No,Home Improvement,No,0
+SMX8IAODUL,31,49499,195135,605,307,4,15.87,36,0.95,PhD,Part-time,Single,No,Yes,Education,No,1
+87223HEXF1,48,135816,138715,841,136,9,13.75,72,0.43,High School,Self-employed,Widowed,Yes,No,Business,Yes,0
+M9NYT6X1BP,75,106347,45785,836,181,8,14.53,12,0.22,PhD,Self-employed,Married,No,No,Auto,Yes,0
+AVWM8G8N4C,22,58787,23681,411,0,3,17.67,24,0.57,Bachelor's,Self-employed,Married,Yes,No,Home Improvement,No,0
+VJVO4EPIYH,52,45488,186098,710,43,9,8.88,36,0.2,Master's,Full-time,Widowed,Yes,Yes,Business,Yes,1
+XXEQXQRP9N,40,84441,108864,505,226,5,23.03,72,0.94,Master's,Full-time,Widowed,No,Yes,Home Improvement,Yes,1
+W1L6E4R498,46,32431,151964,484,330,3,12.58,72,0.27,PhD,Full-time,Widowed,Yes,No,Education,No,0
+HH606AXMD4,60,71681,52299,681,97,5,5.84,36,0.33,High School,Self-employed,Widowed,No,No,Business,Yes,1
+5SFIIGZNXR,28,132720,22073,795,207,4,19.33,60,0.47,Master's,Self-employed,Widowed,Yes,No,Other,Yes,0
+47N3LBXNPC,35,59153,107304,678,264,8,17.15,12,0.44,PhD,Part-time,Widowed,Yes,No,Auto,Yes,1
+KSAJUL5NMV,64,16368,35682,346,287,5,9.95,24,0.82,Bachelor's,Unemployed,Married,Yes,Yes,Auto,No,0
+JRKQHQ4OD3,29,122360,129302,827,270,8,16.67,36,0.51,Bachelor's,Full-time,Widowed,No,No,Home Improvement,Yes,1
+XN5AKRA74F,26,122755,150361,803,139,9,7.84,24,0.25,Master's,Self-employed,Divorced,No,Yes,Auto,No,0
+T72AAXVKKC,27,66985,120359,321,236,4,12.79,48,0.34,High School,Part-time,Married,Yes,Yes,Other,Yes,1
+F504LLGG4B,75,60069,143999,512,71,7,22.79,72,0.56,PhD,Part-time,Single,No,Yes,Business,Yes,1
+MBYN54DILH,61,62326,184402,609,154,2,5.94,72,0.23,Master's,Part-time,Married,No,Yes,Business,No,0
+7QMSYW853W,34,118737,71707,571,189,6,11.51,36,0.65,Bachelor's,Full-time,Single,No,No,Education,No,1
+J4WFIEHMN3,78,60861,70428,501,267,8,21.07,36,0.61,High School,Full-time,Single,Yes,Yes,Business,No,1
+ICZL3ZBNW5,55,85897,55601,331,320,7,24.33,48,0.74,PhD,Unemployed,Divorced,No,No,Home Improvement,No,1
+A7QL03JT59,24,137118,138611,742,106,7,12.99,60,0.94,Master's,Part-time,Widowed,Yes,Yes,Other,Yes,1
+USNYHDKY5L,63,78577,116487,461,231,8,14.15,36,0.92,PhD,Full-time,Widowed,Yes,No,Education,No,1
+IH7QB5OFV3,30,19078,158741,553,41,7,15.59,72,0.95,High School,Part-time,Married,Yes,No,Home Improvement,No,1
+NDSEU8N5YQ,57,72768,156716,820,189,5,23.51,24,0.32,High School,Self-employed,Widowed,Yes,No,Home Improvement,No,1
+6SNHELQ04S,59,61047,154817,779,138,7,21.88,12,0.22,Bachelor's,Part-time,Divorced,Yes,No,Home Improvement,Yes,1
+3K1SCTEC4R,26,81626,33228,309,102,3,6.75,24,0.37,High School,Unemployed,Married,No,No,Auto,Yes,0
+53PXZ03J88,67,67660,170593,804,170,5,12.61,60,0.91,Master's,Full-time,Married,No,Yes,Home Improvement,No,1
+05H1UW8UV3,44,142997,127788,735,350,7,13.21,12,0.97,PhD,Self-employed,Married,Yes,No,Auto,No,0
+MFJAGU7YTK,75,127832,102239,410,272,9,20.36,24,0.87,High School,Full-time,Widowed,No,Yes,Business,No,1
+4BGBEEBJ92,19,140406,31928,452,220,2,16.26,24,0.2,High School,Self-employed,Widowed,No,No,Auto,No,0
+PRW04UOKJ9,22,135150,23322,401,212,4,17.39,48,0.95,Master's,Part-time,Widowed,No,Yes,Home Improvement,Yes,1
+WNSIE8QATR,46,43320,193786,490,340,7,24.96,60,0.48,PhD,Part-time,Married,No,Yes,Other,No,0
+7GU5X7NYGT,54,74881,92896,380,55,1,4.65,72,0.11,PhD,Unemployed,Married,No,Yes,Other,Yes,0
+PHIT4OU3CO,55,100827,67292,788,341,2,7.91,48,0.5,Bachelor's,Unemployed,Single,No,No,Business,No,1
+ZVIZY9SB7O,36,112215,34055,387,101,9,11.97,12,0.14,Bachelor's,Self-employed,Single,No,Yes,Home Improvement,No,0
+ZRNGR1QQ0E,25,144461,47891,493,191,7,10.65,72,0.59,PhD,Unemployed,Widowed,Yes,No,Auto,Yes,1
+9337FIBQX1,65,71550,86912,403,309,7,3.48,48,0.4,Master's,Unemployed,Married,Yes,No,Other,No,1
+MELTYRL559,62,34826,142660,395,199,6,5.02,60,0.53,Master's,Unemployed,Widowed,Yes,Yes,Education,No,0
+DM0AHH5JLB,18,110734,95536,722,232,3,17.98,36,0.65,Bachelor's,Unemployed,Widowed,No,Yes,Home Improvement,No,1
+7BG0TY33L7,39,108511,11304,497,226,3,22.35,36,0.88,High School,Part-time,Single,No,No,Home Improvement,No,0
+4G7UQ7R0Y3,69,21653,12345,300,138,2,14.31,12,0.7,Master's,Unemployed,Divorced,Yes,No,Education,Yes,0
+ICK1FNMV0M,34,91941,165372,706,343,6,14.86,36,0.49,High School,Part-time,Widowed,No,No,Other,No,1
+V29PC8WMQN,24,43662,160331,677,304,4,8.61,48,0.84,Master's,Part-time,Divorced,No,No,Education,No,1
+AA6EWSVB7D,42,108818,96006,466,148,5,19.89,12,0.92,PhD,Full-time,Divorced,Yes,No,Business,Yes,1
+7OIC2OWF5D,62,105081,151424,808,114,3,19.54,72,0.21,Bachelor's,Part-time,Married,Yes,No,Auto,No,1
+MF3GX7BPHG,21,46877,134350,612,62,6,15.94,60,0.58,High School,Part-time,Married,Yes,Yes,Auto,Yes,1
+11PLLUF7HV,53,121562,169437,717,103,3,7.68,12,0.36,High School,Unemployed,Widowed,No,No,Other,No,0
+SEDGEJWWJO,23,82715,24446,776,338,8,5.13,72,0.14,PhD,Part-time,Single,No,No,Education,No,0
+PGS1SRFJGH,77,120091,7336,372,358,9,4.41,12,0.7,Master's,Self-employed,Single,No,Yes,Home Improvement,No,1
+838K4KJY64,48,142632,67032,440,155,4,16.04,24,0.88,High School,Unemployed,Widowed,Yes,Yes,Home Improvement,Yes,1
+R9YGEWK2UK,36,89148,102852,561,272,9,21.15,24,0.25,Master's,Unemployed,Widowed,Yes,Yes,Home Improvement,Yes,1
+N8UTXDIJ4Y,78,93186,143593,639,5,7,21.88,12,0.83,PhD,Unemployed,Single,No,No,Business,No,0
+MORGAFAFYM,61,133629,159553,607,146,3,13.2,36,0.87,Bachelor's,Full-time,Divorced,Yes,Yes,Business,Yes,0
+PM5GT6PM18,71,80316,23474,544,183,7,20.25,24,0.92,High School,Unemployed,Widowed,Yes,Yes,Home Improvement,No,0
+H3HCVIRRN5,56,38380,182832,814,27,1,23.83,60,0.34,Master's,Part-time,Divorced,No,No,Other,Yes,1
+S5IM0B2R17,44,120198,60718,636,37,3,9.05,72,0.91,High School,Self-employed,Widowed,Yes,No,Business,No,1
+82EWO9LCP8,27,12356,49629,375,118,6,11.76,48,0.39,Master's,Unemployed,Widowed,Yes,No,Business,Yes,0
+SHOS3EYN3X,43,80326,50232,474,292,4,23.49,24,0.6,Master's,Unemployed,Divorced,Yes,No,Auto,No,1
+F3IADMF9XS,36,102447,91544,408,243,7,10.44,12,0.15,Master's,Self-employed,Divorced,No,Yes,Auto,Yes,1
+00ZJM6L28E,56,124994,55669,482,67,3,23.11,36,0.14,PhD,Unemployed,Single,No,No,Other,Yes,0
+DFQXUNUET3,79,30049,74184,491,213,1,24.58,48,0.75,Bachelor's,Full-time,Widowed,Yes,Yes,Business,Yes,0
+69ESUWCKTB,20,115361,184017,364,217,9,17.56,72,0.5,High School,Part-time,Married,No,No,Business,Yes,1
+DKHHP58DHY,62,26082,18140,773,176,6,20.97,72,0.33,Bachelor's,Self-employed,Married,No,Yes,Education,No,0
+ZXTCYFE35S,30,10661,131468,399,298,8,19.49,24,0.27,Master's,Self-employed,Widowed,No,No,Other,No,1
+U2QVGX10UI,67,12920,88457,843,163,3,18.39,72,0.7,Master's,Full-time,Widowed,Yes,No,Other,Yes,0
+I5PVBE21AQ,45,89561,19357,427,57,8,9.75,72,0.1,Bachelor's,Part-time,Widowed,No,No,Education,No,0
+CHBHQXS08Z,79,18946,116672,751,268,2,4.26,36,0.83,Bachelor's,Full-time,Divorced,Yes,Yes,Education,Yes,1
+8L2L8MDLRH,75,26309,73673,668,307,4,10.55,36,0.17,High School,Part-time,Married,Yes,Yes,Auto,No,1
+L3Y8O3KSAS,37,65230,126673,342,57,3,17.67,36,0.27,Master's,Full-time,Married,No,Yes,Other,Yes,0
+LVTHVMIEOF,45,121822,70633,718,287,1,5.26,12,0.45,Bachelor's,Unemployed,Married,Yes,No,Other,No,1
+VDGDV4YR3B,25,122340,101111,787,104,7,3.26,72,0.54,PhD,Full-time,Widowed,No,Yes,Education,No,0
+OQKB8H0R55,78,69321,83258,377,227,2,6.07,72,0.42,Master's,Self-employed,Divorced,No,No,Home Improvement,Yes,1
+4LXSK2K4Q0,58,142028,148996,569,246,4,18.75,72,0.39,Master's,Self-employed,Widowed,Yes,No,Home Improvement,Yes,0
+JQ8ND3K4FB,56,84131,74286,614,187,9,24.4,60,0.97,High School,Self-employed,Single,Yes,No,Auto,Yes,0
+KWXBP8DHEC,18,35963,98269,467,82,6,24.63,36,0.68,PhD,Full-time,Single,No,Yes,Home Improvement,Yes,0
+8GXNOY0NZW,20,111757,79071,638,185,8,13.87,48,0.12,High School,Self-employed,Married,No,No,Home Improvement,Yes,1
+2EWM97YC1C,30,109259,193398,492,251,2,22.13,24,0.49,PhD,Self-employed,Widowed,No,Yes,Home Improvement,No,0
+F5ETH9VA63,45,49063,35651,752,354,7,19.21,48,0.89,High School,Unemployed,Single,No,No,Business,Yes,0
+35ZUXPE8PS,79,124225,75202,582,237,6,14.02,12,0.37,PhD,Unemployed,Single,Yes,No,Auto,No,0
+DHFOZVQKR8,74,126400,53777,635,359,9,15.6,12,0.19,PhD,Part-time,Widowed,Yes,No,Education,Yes,0
+NM1KXQY8BU,77,90818,153066,689,183,7,6.02,72,0.78,PhD,Part-time,Divorced,Yes,Yes,Home Improvement,No,1
+3BZJVBHM3M,66,14703,72263,824,283,1,23.63,48,0.65,Bachelor's,Part-time,Widowed,No,Yes,Business,No,1
+VZ7C8KKIHI,42,82099,195706,539,209,8,10.74,72,0.61,Master's,Full-time,Widowed,Yes,No,Home Improvement,Yes,0
+QVZSCMNXRV,73,41585,105158,782,303,3,12.82,60,0.15,PhD,Part-time,Divorced,Yes,Yes,Business,Yes,0
+SB3NN40IXS,50,53585,15800,757,295,2,17.78,12,0.23,Bachelor's,Full-time,Married,Yes,Yes,Auto,No,1
+XSLNVTDZBP,55,36958,42823,388,96,3,10.35,12,0.66,Bachelor's,Full-time,Married,Yes,No,Home Improvement,No,0
+ZHECAPGV20,70,36017,68878,394,207,6,8.59,48,0.29,High School,Part-time,Married,No,No,Business,Yes,1
+BVVMEAGRF8,23,134677,23708,751,136,3,16.88,12,0.55,Master's,Part-time,Divorced,Yes,Yes,Other,No,0
+W9H5WQ5JWG,75,39426,148891,727,183,5,3.55,60,0.59,Master's,Full-time,Single,Yes,No,Other,No,1
+FVRLZ22HEY,61,27778,68870,450,75,6,18.86,60,0.36,High School,Unemployed,Divorced,Yes,No,Business,No,0
+ZFTH0G3BVI,62,52229,14283,813,286,8,14.31,60,0.95,Master's,Self-employed,Widowed,Yes,Yes,Home Improvement,No,1
+IKRYTRZ43K,49,96652,166645,675,141,7,16.33,24,0.86,High School,Self-employed,Divorced,No,Yes,Home Improvement,No,1
+E0N4V0JW6C,62,138267,83707,321,236,8,16.9,60,0.75,Bachelor's,Self-employed,Single,No,No,Auto,No,1
+MQOL7W66QR,78,136503,167005,612,24,3,14.6,60,0.17,Bachelor's,Unemployed,Single,Yes,Yes,Auto,Yes,0
+1JY34NWZGQ,64,94878,10774,818,289,4,15.82,24,0.2,PhD,Full-time,Widowed,No,Yes,Education,Yes,1
+IVQCJSLQVM,38,67056,147055,505,66,6,18.04,72,0.54,High School,Part-time,Married,No,No,Auto,Yes,1
+1T6Q8BDOZJ,33,29975,101468,674,249,7,19.57,36,0.24,Bachelor's,Full-time,Single,No,No,Home Improvement,Yes,0
+05EHECITXF,71,98397,101334,750,117,9,19.0,12,0.98,Bachelor's,Full-time,Single,No,No,Education,No,0
+U763UNNKQQ,38,43142,23133,478,72,1,22.13,60,0.24,High School,Part-time,Single,Yes,No,Auto,Yes,0
+ZFYK3TJXM5,28,36916,151011,509,281,8,7.17,12,0.54,Bachelor's,Unemployed,Widowed,No,Yes,Business,No,0
+5T6TO0W0G4,77,74324,5781,799,359,8,11.83,48,0.43,Master's,Self-employed,Single,No,Yes,Other,No,1
+1WV9N5M9YD,54,135932,119586,763,9,6,23.85,12,0.68,Bachelor's,Self-employed,Married,Yes,No,Auto,Yes,0
+SPCT2ALQUU,53,145720,192772,423,210,4,11.72,72,0.22,High School,Full-time,Widowed,Yes,No,Auto,Yes,0
+LAHXFKKEMN,52,106059,32624,412,322,3,5.75,24,0.49,Master's,Unemployed,Married,Yes,No,Business,No,0
+6NF02IAM4U,36,108317,11823,311,151,3,14.56,12,0.35,Master's,Self-employed,Single,Yes,No,Home Improvement,Yes,0
+IMSKVU4O9K,37,45046,23489,425,4,6,5.41,12,0.9,Bachelor's,Unemployed,Single,No,Yes,Business,Yes,0
+JUKM8RA3BI,74,111459,176033,630,194,8,7.46,12,0.14,PhD,Part-time,Married,Yes,Yes,Auto,No,0
+Z9O3YW8Z6M,35,55893,34118,582,282,7,24.96,36,0.92,Master's,Full-time,Widowed,No,No,Home Improvement,No,0
+179J85X3H8,64,111520,105417,439,112,1,14.91,36,0.85,High School,Full-time,Widowed,No,No,Education,No,1
+HUG3CWBNDC,58,135818,86816,700,270,6,9.25,48,0.37,PhD,Unemployed,Married,Yes,Yes,Auto,No,1
+STKVHS1BAZ,66,71272,158335,396,162,7,24.89,24,0.81,PhD,Self-employed,Single,Yes,Yes,Business,No,1
+9AUEVSCUFD,31,77649,18565,816,104,7,24.26,12,0.13,Master's,Unemployed,Divorced,No,Yes,Education,No,1
+KUCNDXB4N4,32,74674,156426,368,180,9,12.7,12,0.97,Bachelor's,Part-time,Married,No,Yes,Other,Yes,1
+DKN2A19MAV,48,96475,179023,417,43,5,8.73,12,0.57,PhD,Self-employed,Married,Yes,No,Education,Yes,0
+7SS729KMCA,18,71367,96179,358,281,1,21.44,12,0.37,Bachelor's,Self-employed,Married,Yes,Yes,Business,Yes,0
+S4PU0UYPUY,70,131750,28648,332,174,2,18.74,36,0.43,Master's,Unemployed,Single,Yes,Yes,Education,No,0
+R3X226TVU9,71,128154,186801,617,161,4,18.11,72,0.16,High School,Part-time,Widowed,No,Yes,Business,No,0
+VEWPH9QA8D,71,54738,46971,349,350,5,22.65,72,0.99,PhD,Self-employed,Single,No,No,Auto,Yes,1
+H27CP37GGK,20,43397,23658,788,339,9,18.17,48,0.14,High School,Full-time,Married,Yes,No,Home Improvement,Yes,1
+2CQQCH24JY,33,92189,26253,318,139,1,9.24,60,0.69,Bachelor's,Part-time,Single,No,Yes,Other,Yes,0
+2BQIMIYC5P,40,86367,184635,496,131,3,18.26,24,0.5,Bachelor's,Self-employed,Single,Yes,Yes,Home Improvement,No,0
+5G0WCSL9MI,74,130585,162462,749,86,5,9.73,72,0.95,High School,Unemployed,Married,No,No,Home Improvement,Yes,1
+Q3L2D3Z1ON,28,86619,93664,751,175,3,19.7,12,0.32,Master's,Self-employed,Single,No,No,Home Improvement,Yes,1
+MX20VDDB5O,29,121453,187650,588,182,4,16.63,72,0.58,Master's,Full-time,Divorced,Yes,Yes,Business,Yes,1
+WV3I18V553,27,29816,108850,440,128,3,4.7,48,0.53,PhD,Part-time,Single,Yes,No,Business,No,0
+FC3H7KTA3Q,49,147348,168730,383,245,4,14.28,60,0.73,PhD,Self-employed,Single,Yes,Yes,Other,Yes,0
+02UUQO2EN2,33,89530,142924,690,88,1,10.55,72,0.16,Master's,Full-time,Widowed,No,No,Business,Yes,1
+ZOVD8QLD44,25,118856,138623,514,65,8,10.23,48,0.27,Master's,Self-employed,Widowed,No,Yes,Business,No,1
+GOCVXXE235,55,81635,76947,825,157,4,16.25,36,0.29,High School,Self-employed,Married,Yes,Yes,Business,No,0
+FIJUHVUP8I,29,117803,66001,514,148,7,10.09,60,0.76,Bachelor's,Part-time,Married,No,No,Business,No,0
+69W3TQEN7I,41,45946,185231,702,339,2,20.09,48,0.27,Bachelor's,Unemployed,Widowed,Yes,Yes,Auto,No,0
+CIL0WRD8OM,45,65204,127775,427,115,2,4.56,72,0.62,PhD,Unemployed,Divorced,No,No,Other,No,0
+KUNVPCZ7BE,70,25563,187779,776,213,6,17.53,36,0.29,Master's,Full-time,Single,Yes,No,Business,Yes,1
+5RCAQL2K8C,25,102324,38243,703,293,2,20.8,48,0.88,High School,Full-time,Divorced,No,No,Other,Yes,1
+XRVPO2FV61,75,19847,157872,328,252,6,17.8,48,0.95,PhD,Full-time,Divorced,No,Yes,Education,No,1
+HGYWHPSR0T,45,36155,80939,637,142,2,13.94,72,0.57,High School,Part-time,Widowed,No,Yes,Auto,No,0
+E8OD43ZYA8,53,89671,62828,660,249,4,23.91,60,0.42,Master's,Unemployed,Married,No,Yes,Business,No,0
+ZEU434NI3G,43,126891,143311,691,301,7,9.6,36,0.31,Master's,Full-time,Single,Yes,No,Auto,No,0
+H03CCZ3H4S,25,93310,11710,517,24,8,3.42,12,0.14,Master's,Full-time,Married,No,Yes,Auto,Yes,1
+MJ5XDS8KNW,75,141691,157456,501,276,3,12.5,24,0.34,Bachelor's,Self-employed,Divorced,Yes,Yes,Education,Yes,1
+3P0RJQ2QOG,77,44707,157110,316,69,9,3.73,60,0.69,Master's,Self-employed,Divorced,Yes,Yes,Other,No,1
+NOH8L324G7,67,91537,176918,621,112,2,23.99,36,0.58,PhD,Full-time,Married,Yes,Yes,Auto,No,0
+4803S8QIMS,45,101155,42991,817,111,8,7.62,48,0.95,Bachelor's,Self-employed,Married,Yes,No,Home Improvement,No,0
+GAP174PQWB,45,10281,143043,624,302,8,20.36,36,0.46,High School,Self-employed,Widowed,No,Yes,Education,No,1
+0G0BXPMNFE,54,142130,165211,711,90,4,20.04,24,0.72,PhD,Self-employed,Married,Yes,No,Home Improvement,Yes,0
+6PMWBWCXZO,58,86260,90445,617,17,1,7.79,72,0.54,PhD,Part-time,Married,No,No,Education,No,1
+K10I5OLVE6,53,74178,85257,381,148,1,16.67,24,0.56,High School,Full-time,Widowed,No,No,Home Improvement,No,1
+LZVPGNPEV2,44,43997,42711,773,226,2,4.06,12,0.34,Bachelor's,Full-time,Married,No,No,Home Improvement,Yes,1
+MPV23LT2GD,71,129273,11530,767,213,9,13.64,12,0.51,PhD,Self-employed,Divorced,No,Yes,Auto,No,1
+N1USMEMOSX,34,142311,16116,724,359,2,3.32,24,0.52,PhD,Part-time,Married,Yes,Yes,Auto,Yes,0
+OPE7EBZPIO,26,136945,70794,503,150,2,23.27,60,0.74,PhD,Self-employed,Single,No,Yes,Education,No,0
+JD9NL4IKL4,50,55272,136354,686,191,6,24.47,60,0.95,Bachelor's,Part-time,Divorced,Yes,No,Other,No,0
+9JDCF3UR7M,70,99393,137970,397,39,7,7.89,48,0.4,Bachelor's,Full-time,Widowed,No,Yes,Auto,Yes,0
+S6Q0897W69,37,71212,9135,644,241,7,7.58,12,0.14,Bachelor's,Self-employed,Divorced,No,No,Auto,No,0
+YOALUF0U1U,30,130030,142701,507,137,9,19.58,48,0.55,PhD,Full-time,Widowed,Yes,Yes,Business,Yes,0
+H6BS1FQQSX,45,66503,114472,813,344,6,8.57,12,0.59,Master's,Part-time,Single,No,Yes,Auto,Yes,1
+73QBO6IL76,65,147710,130147,465,179,8,22.69,24,0.25,High School,Unemployed,Single,No,Yes,Other,Yes,0
+7BSLN0D3CC,46,16570,94087,321,199,6,15.63,60,0.78,Master's,Part-time,Divorced,No,No,Business,No,0
+0J2MDMXRPX,30,78785,38380,453,202,2,10.72,60,0.99,Bachelor's,Unemployed,Married,No,Yes,Home Improvement,No,0
+7FY2X4TIWT,63,19110,134951,738,60,1,21.32,24,0.95,PhD,Full-time,Divorced,No,No,Home Improvement,Yes,1
+C3R4LVUZ2O,52,89141,22071,594,191,5,13.85,48,0.28,PhD,Full-time,Divorced,Yes,No,Business,No,0
+BEXVVWGBTC,78,22115,25074,518,4,9,23.06,48,0.89,Master's,Self-employed,Single,No,No,Business,No,1
+SI2YDAYR08,23,49062,72843,794,236,8,23.42,36,0.73,Master's,Unemployed,Widowed,No,Yes,Business,No,0
+LID6FJZQ39,35,32911,44901,529,180,4,6.64,12,0.51,High School,Part-time,Divorced,Yes,Yes,Education,Yes,0
+OJZVE7WLOU,68,114061,16205,319,310,5,3.05,48,0.59,PhD,Full-time,Married,No,No,Other,Yes,0
+HRAV8DVOLV,22,42556,191733,447,36,5,24.65,24,0.86,Master's,Unemployed,Single,Yes,No,Other,No,1
+OFSHHUJK7S,64,138335,129661,407,55,6,22.94,48,0.53,High School,Part-time,Divorced,No,No,Home Improvement,Yes,1
+BYVD6D9CYX,42,11969,10906,702,236,3,4.22,60,0.44,Bachelor's,Unemployed,Divorced,No,No,Home Improvement,No,0
+QOGKYQV238,19,53753,138663,782,357,5,21.33,12,0.54,Master's,Part-time,Married,Yes,No,Home Improvement,No,0
+CAJGA9SLRT,27,145542,130576,666,348,2,13.07,72,0.62,Bachelor's,Part-time,Divorced,No,Yes,Auto,No,0
+LAI44H6IRT,73,131863,67987,713,196,1,8.7,36,0.27,High School,Part-time,Divorced,No,Yes,Home Improvement,Yes,1
+QSAF4TKTK3,47,20225,199442,608,72,1,22.33,12,0.91,Bachelor's,Part-time,Divorced,Yes,Yes,Business,Yes,1
+EHJFJSZUMF,67,133008,85685,433,58,7,7.33,60,0.71,PhD,Unemployed,Divorced,Yes,No,Home Improvement,No,0
+ANYDSJ0O61,76,115823,115454,582,239,2,23.84,60,0.67,PhD,Unemployed,Married,No,No,Business,Yes,1
+O4XMNSQ07L,62,23669,110487,372,1,4,7.52,60,0.19,Bachelor's,Self-employed,Divorced,Yes,Yes,Education,No,1
+BN9X5OM869,22,134398,59400,780,359,5,16.5,60,0.64,PhD,Unemployed,Divorced,No,Yes,Auto,Yes,1
+4ZVY4H5ZLM,72,120677,161222,651,187,7,7.91,24,0.21,High School,Unemployed,Divorced,Yes,No,Auto,Yes,1
+FBXO9EQXCY,73,58320,36852,625,306,2,15.0,36,0.17,PhD,Self-employed,Single,No,No,Other,Yes,0
+MY41GBEQY2,50,135354,178942,742,29,6,18.05,72,0.57,Bachelor's,Unemployed,Married,Yes,No,Education,No,0
+Z7H16NFVJR,71,98009,57756,399,266,1,7.19,60,0.46,Bachelor's,Part-time,Single,Yes,Yes,Business,No,1
+CNXWBO94TK,18,38625,120357,358,107,7,14.46,60,0.63,Bachelor's,Full-time,Single,Yes,No,Education,No,1
+YLCKX73JEJ,35,34089,124052,807,331,9,13.32,48,0.18,Master's,Full-time,Married,Yes,No,Auto,Yes,1
+IXORPNTHOS,49,46487,61481,557,89,5,4.56,36,0.49,Bachelor's,Self-employed,Single,Yes,No,Business,No,0
+58SZTDF1KG,64,120448,6283,712,204,5,21.0,12,0.26,High School,Unemployed,Single,Yes,Yes,Education,No,0
+ZG52F9468G,66,60138,38691,751,219,4,10.39,36,0.99,PhD,Unemployed,Single,Yes,No,Auto,No,1
